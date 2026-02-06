@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2026-01-10",
+    "name": "Downtown Farmers Market",
+    "type": "market",
+    "expected_attendance": 500,
+    "distance_miles": 0.3
+  },
+  {
+    "date": "2026-01-17",
+    "name": "Downtown Farmers Market",
+    "type": "market",
+    "expected_attendance": 450,
+    "distance_miles": 0.3
+  },
+  {
+    "date": "2026-01-18",
+    "name": "Neighborhood Art Walk",
+    "type": "festival",
+    "expected_attendance": 1200,
+    "distance_miles": 0.1
+  },
+  {
+    "date": "2026-01-24",
+    "name": "Downtown Farmers Market",
+    "type": "market",
+    "expected_attendance": 480,
+    "distance_miles": 0.3
+  },
+  {
+    "date": "2026-01-25",
+    "name": "Live Jazz @ The Alley",
+    "type": "concert",
+    "expected_attendance": 300,
+    "distance_miles": 0.2
+  },
+  {
+    "date": "2026-01-31",
+    "name": "Downtown Farmers Market",
+    "type": "market",
+    "expected_attendance": 520,
+    "distance_miles": 0.3
+  },
+  {
+    "date": "2026-02-01",
+    "name": "Lakeside Half-Marathon",
+    "type": "sports",
+    "expected_attendance": 2000,
+    "distance_miles": 0.5
+  },
+  {
+    "date": "2026-02-05",
+    "name": "Valentine's Pop-Up Market",
+    "type": "market",
+    "expected_attendance": 700,
+    "distance_miles": 0.15
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "name": "seller-ops-copilot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Neighborhood-Aware Seller Ops Copilot – AI insights for small business sellers",
+  "scripts": {
+    "postinstall": "npm install --prefix server && npm install --prefix client",
+    "dev": "npx concurrently -n server,client -c blue,green \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
+    "seed": "node server/src/data/seed.cjs",
+    "build": "npm run build --prefix client"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.0"
+  }
+}

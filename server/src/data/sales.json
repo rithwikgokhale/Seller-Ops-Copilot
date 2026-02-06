@@ -1,0 +1,5432 @@
+[
+  {
+    "date": "2026-01-07",
+    "day_of_week": "Wed",
+    "total_revenue": 655.46,
+    "order_count": 117,
+    "avg_order_value": 5.6,
+    "hourly": [
+      {
+        "hour": 6,
+        "revenue": 7.67,
+        "orders": 2
+      },
+      {
+        "hour": 7,
+        "revenue": 40.58,
+        "orders": 9
+      },
+      {
+        "hour": 8,
+        "revenue": 94.81,
+        "orders": 15
+      },
+      {
+        "hour": 9,
+        "revenue": 58.54,
+        "orders": 11
+      },
+      {
+        "hour": 10,
+        "revenue": 25.71,
+        "orders": 7
+      },
+      {
+        "hour": 11,
+        "revenue": 89.22,
+        "orders": 11
+      },
+      {
+        "hour": 12,
+        "revenue": 74.61,
+        "orders": 12
+      },
+      {
+        "hour": 13,
+        "revenue": 73.16,
+        "orders": 11
+      },
+      {
+        "hour": 14,
+        "revenue": 32.82,
+        "orders": 6
+      },
+      {
+        "hour": 15,
+        "revenue": 38.23,
+        "orders": 7
+      },
+      {
+        "hour": 16,
+        "revenue": 31.34,
+        "orders": 6
+      },
+      {
+        "hour": 17,
+        "revenue": 30.22,
+        "orders": 6
+      },
+      {
+        "hour": 18,
+        "revenue": 19.61,
+        "orders": 5
+      },
+      {
+        "hour": 19,
+        "revenue": 18.83,
+        "orders": 5
+      },
+      {
+        "hour": 20,
+        "revenue": 15.19,
+        "orders": 3
+      },
+      {
+        "hour": 21,
+        "revenue": 4.92,
+        "orders": 1
+      }
+    ],
+    "items": [
+      {
+        "name": "Latte",
+        "category": "Drinks",
+        "qty": 19,
+        "revenue": 95
+      },
+      {
+        "name": "Drip Coffee",
+        "category": "Drinks",
+        "qty": 17,
+        "revenue": 42.5
+      },
+      {
+        "name": "Espresso",
+        "category": "Drinks",
+        "qty": 11,
+        "revenue": 38.5
+      },
+      {
+        "name": "Cappuccino",
+        "category": "Drinks",
+        "qty": 7,
+        "revenue": 33.25
+      },
+      {
+        "name": "Cold Brew",
+        "category": "Drinks",
+        "qty": 8,
+        "revenue": 36
+      },
+      {
+        "name": "Mocha",
+        "category": "Drinks",
+        "qty": 4,
+        "revenue": 22
+      },
+      {
+        "name": "Matcha Latte",
+        "category": "Drinks",
+        "qty": 5,
+        "revenue": 27.5
+      },
+      {
+        "name": "Green Smoothie",
+        "category": "Drinks",
+        "qty": 4,
+        "revenue": 24
+      },
+      {
+        "name": "Croissant",
+        "category": "Pastries",
+        "qty": 9,
+        "revenue": 33.75
+      },
+      {
+        "name": "Blueberry Muffin",
+        "category": "Pastries",
+        "qty": 9,
+        "revenue": 31.5
+      },
+      {
+        "name": "Banana Bread",
+        "category": "Pastries",
+        "qty": 5,
+        "revenue": 20
+      },
+      {
+        "name": "Avocado Toast",
+        "category": "Food",
+        "qty": 7,
+        "revenue": 59.5
+      },
+      {
+        "name": "Breakfast Burrito",
+        "category": "Food",
+        "qty": 6,
+        "revenue": 54
+      },
+      {
+        "name": "Bagel & Cream Cheese",
+        "category": "Food",
+        "qty": 4,
+        "revenue": 18
+      },
+      {
+        "name": "Seasonal Soup",
+        "category": "Food",
+        "qty": 4,
+        "revenue": 26
+      }
+    ]
+  },
+  {
+    "date": "2026-01-08",
+    "day_of_week": "Thu",
+    "total_revenue": 504.51,
+    "order_count": 93,
+    "avg_order_value": 5.42,
+    "hourly": [
+      {
+        "hour": 6,
+        "revenue": 10.88,
+        "orders": 2
+      },
+      {
+        "hour": 7,
+        "revenue": 35.75,
+        "orders": 7
+      },
+      {
+        "hour": 8,
+        "revenue": 67.87,
+        "orders": 14
+      },
+      {
+        "hour": 9,
+        "revenue": 52.07,
+        "orders": 10
+      },
+      {
+        "hour": 10,
+        "revenue": 29.38,
+        "orders": 7
+      },
+      {
+        "hour": 11,
+        "revenue": 47.39,
+        "orders": 7
+      },
+      {
+        "hour": 12,
+        "revenue": 85.75,
+        "orders": 11
+      },
+      {
+        "hour": 13,
+        "revenue": 43.6,
+        "orders": 6
+      },
+      {
+        "hour": 14,
+        "revenue": 25.48,
+        "orders": 5
+      },
+      {
+        "hour": 15,
+        "revenue": 22.13,
+        "orders": 6
+      },
+      {
+        "hour": 16,
+        "revenue": 23.41,
+        "orders": 5
+      },
+      {
+        "hour": 17,
+        "revenue": 21.26,
+        "orders": 4
+      },
+      {
+        "hour": 18,
+        "revenue": 10.56,
+        "orders": 3
+      },
+      {
+        "hour": 19,
+        "revenue": 15.97,
+        "orders": 3
+      },
+      {
+        "hour": 20,
+        "revenue": 7.83,
+        "orders": 2
+      },
+      {
+        "hour": 21,
+        "revenue": 5.18,
+        "orders": 1
+      }
+    ],
+    "items": [
+      {
+        "name": "Latte",
+        "category": "Drinks",
+        "qty": 14,
+        "revenue": 70
+      },
+      {
+        "name": "Drip Coffee",
+        "category": "Drinks",
+        "qty": 16,
+        "revenue": 40
+      },
+      {
+        "name": "Espresso",
+        "category": "Drinks",
+        "qty": 8,
+        "revenue": 28
+      },
+      {
+        "name": "Cappuccino",
+        "category": "Drinks",
+        "qty": 6,
+        "revenue": 28.5
+      },
+      {
+        "name": "Cold Brew",
+        "category": "Drinks",
+        "qty": 4,
+        "revenue": 18
+      },
+      {
+        "name": "Mocha",
+        "category": "Drinks",
+        "qty": 6,
+        "revenue": 33
+      },
+      {
+        "name": "Matcha Latte",
+        "category": "Drinks",
+        "qty": 4,
+        "revenue": 22
+      },
+      {
+        "name": "Green Smoothie",
+        "category": "Drinks",
+        "qty": 2,
+        "revenue": 12
+      },
+      {
+        "name": "Croissant",
+        "category": "Pastries",
+        "qty": 12,
+        "revenue": 45
+      },
+      {
+        "name": "Blueberry Muffin",
+        "category": "Pastries",
+        "qty": 4,
+        "revenue": 14
+      },
+      {
+        "name": "Banana Bread",
+        "category": "Pastries",
+        "qty": 3,
+        "revenue": 12
+      },
+      {
+        "name": "Avocado Toast",
+        "category": "Food",
+        "qty": 5,
+        "revenue": 42.5
+      },
+      {
+        "name": "Breakfast Burrito",
+        "category": "Food",
+        "qty": 5,
+        "revenue": 45
+      },
+      {
+        "name": "Bagel & Cream Cheese",
+        "category": "Food",
+        "qty": 3,
+        "revenue": 13.5
+      },
+      {
+        "name": "Seasonal Soup",
+        "category": "Food",
+        "qty": 4,
+        "revenue": 26
+      }
+    ]
+  },
+  {
+    "date": "2026-01-09",
+    "day_of_week": "Fri",
+    "total_revenue": 587.89,
+    "order_count": 113,
+    "avg_order_value": 5.2,
+    "hourly": [
+      {
+        "hour": 6,
+        "revenue": 9.4,
+        "orders": 2
+      },
+      {
+        "hour": 7,
+        "revenue": 43.25,
+        "orders": 8
+      },
+      {
+        "hour": 8,
+        "revenue": 90.44,
+        "orders": 19
+      },
+      {
+        "hour": 9,
+        "revenue": 58.78,
+        "orders": 12
+      },
+      {
+        "hour": 10,
+        "revenue": 29.57,
+        "orders": 8
+      },
+      {
+        "hour": 11,
+        "revenue": 49.15,
+        "orders": 8
+      },
+      {
+        "hour": 12,
+        "revenue": 87.88,
+        "orders": 11
+      },
+      {
+        "hour": 13,
+        "revenue": 57.71,
+        "orders": 8
+      },
+      {
+        "hour": 14,
+        "revenue": 24.91,
+        "orders": 6
+      },
+      {
+        "hour": 15,
+        "revenue": 38.18,
+        "orders": 8
+      },
+      {
+        "hour": 16,
+        "revenue": 24.22,
+        "orders": 6
+      },
+      {
+        "hour": 17,
+        "revenue": 19.84,
+        "orders": 5
+      },
+      {
+        "hour": 18,
+        "revenue": 20.44,
+        "orders": 4
+      },
+      {
+        "hour": 19,
+        "revenue": 20.11,
+        "orders": 5
+      },
+      {
+        "hour": 20,
+        "revenue": 9.15,
+        "orders": 2
+      },
+      {
+        "hour": 21,
+        "revenue": 4.86,
+        "orders": 1
+      }
+    ],
+    "items": [
+      {
+        "name": "Latte",
+        "category": "Drinks",
+        "qty": 22,
+        "revenue": 110
+      },
+      {
+        "name": "Drip Coffee",
+        "category": "Drinks",
+        "qty": 13,
+        "revenue": 32.5
+      },
+      {
+        "name": "Espresso",
+        "category": "Drinks",
+        "qty": 8,
+        "revenue": 28
+      },
+      {
+        "name": "Cappuccino",
+        "category": "Drinks",
+        "qty": 8,
+        "revenue": 38
+      },
+      {
+        "name": "Cold Brew",
+        "category": "Drinks",
+        "qty": 6,
+        "revenue": 27
+      },
+      {
+        "name": "Mocha",
+        "category": "Drinks",
+        "qty": 5,
+        "revenue": 27.5
+      },
+      {
+        "name": "Matcha Latte",
+        "category": "Drinks",
+        "qty": 5,
+        "revenue": 27.5
+      },
+      {
+        "name": "Green Smoothie",
+        "category": "Drinks",
+        "qty": 4,
+        "revenue": 24
+      },
+      {
+        "name": "Croissant",
+        "category": "Pastries",
+        "qty": 14,
+        "revenue": 52.5
+      },
+      {
+        "name": "Blueberry Muffin",
+        "category": "Pastries",
+        "qty": 5,
+        "revenue": 17.5
+      },
+      {
+        "name": "Banana Bread",
+        "category": "Pastries",
+        "qty": 4,
+        "revenue": 16
+      },
+      {
+        "name": "Avocado Toast",
+        "category": "Food",
+        "qty": 6,
+        "revenue": 51
+      },
+      {
+        "name": "Breakfast Burrito",
+        "category": "Food",
+        "qty": 6,
+        "revenue": 54
+      },
+      {
+        "name": "Bagel & Cream Cheese",
+        "category": "Food",
+        "qty": 3,
+        "revenue": 13.5
+      },
+      {
+        "name": "Seasonal Soup",
+        "category": "Food",
+        "qty": 2,
+        "revenue": 13
+      }
+    ]
+  },
+  {
+    "date": "2026-01-10",
+    "day_of_week": "Sat",
+    "total_revenue": 1111.83,
+    "order_count": 186,
+    "avg_order_value": 5.98,
+    "hourly": [
+      {
+        "hour": 6,
+        "revenue": 7.56,
+        "orders": 2
+      },
+      {
+        "hour": 7,
+        "revenue": 38.33,
+        "orders": 6
+      },
+      {
+        "hour": 8,
+        "revenue": 166.71,
+        "orders": 27
+      },
+      {
+        "hour": 9,
+        "revenue": 106.49,
+        "orders": 17
+      },
+      {
+        "hour": 10,
+        "revenue": 56.99,
+        "orders": 16
+      },
+      {
+        "hour": 11,
+        "revenue": 92.5,
+        "orders": 15
+      },
+      {
+        "hour": 12,
+        "revenue": 196.88,
+        "orders": 24
+      },
+      {
+        "hour": 13,
+        "revenue": 144.2,
+        "orders": 18
+      },
+      {
+        "hour": 14,
+        "revenue": 71.7,
+        "orders": 14
+      },
+      {
+        "hour": 15,
+        "revenue": 46.18,
+        "orders": 9
+      },
+      {
+        "hour": 16,
+        "revenue": 51.02,
+        "orders": 10
+      },
+      {
+        "hour": 17,
+        "revenue": 38.97,
+        "orders": 9
+      },
+      {
+        "hour": 18,
+        "revenue": 37,
+        "orders": 7
+      },
+      {
+        "hour": 19,
+        "revenue": 27.44,
+        "orders": 6
+      },
+      {
+        "hour": 20,
+        "revenue": 20.77,
+        "orders": 4
+      },
+      {
+        "hour": 21,
+        "revenue": 9.09,
+        "orders": 2
+      }
+    ],
+    "items": [
+      {
+        "name": "Latte",
+        "category": "Drinks",
+        "qty": 32,
+        "revenue": 160
+      },
+      {
+        "name": "Drip Coffee",
+        "category": "Drinks",
+        "qty": 24,
+        "revenue": 60
+      },
+      {
+        "name": "Espresso",
+        "category": "Drinks",
+        "qty": 14,
+        "revenue": 49
+      },
+      {
+        "name": "Cappuccino",
+        "category": "Drinks",
+        "qty": 15,
+        "revenue": 71.25
+      },
+      {
+        "name": "Cold Brew",
+        "category": "Drinks",
+        "qty": 9,
+        "revenue": 40.5
+      },
+      {
+        "name": "Mocha",
+        "category": "Drinks",
+        "qty": 8,
+        "revenue": 44
+      },
+      {
+        "name": "Matcha Latte",
+        "category": "Drinks",
+        "qty": 7,
+        "revenue": 38.5
+      },
+      {
+        "name": "Green Smoothie",
+        "category": "Drinks",
+        "qty": 7,
+        "revenue": 42
+      },
+      {
+        "name": "Croissant",
+        "category": "Pastries",
+        "qty": 14,
+        "revenue": 52.5
+      },
+      {
+        "name": "Blueberry Muffin",
+        "category": "Pastries",
+        "qty": 10,
+        "revenue": 35
+      },
+      {
+        "name": "Banana Bread",
+        "category": "Pastries",
+        "qty": 6,
+        "revenue": 24
+      },
+      {
+        "name": "Avocado Toast",
+        "category": "Food",
+        "qty": 11,
+        "revenue": 93.5
+      },
+      {
+        "name": "Breakfast Burrito",
+        "category": "Food",
+        "qty": 11,
+        "revenue": 99
+      },
+      {
+        "name": "Bagel & Cream Cheese",
+        "category": "Food",
+        "qty": 4,
+        "revenue": 18
+      },
+      {
+        "name": "Seasonal Soup",
+        "category": "Food",
+        "qty": 5,
+        "revenue": 32.5
+      }
+    ]
+  },
+  {
+    "date": "2026-01-11",
+    "day_of_week": "Sun",
+    "total_revenue": 918.9,
+    "order_count": 162,
+    "avg_order_value": 5.67,
+    "hourly": [
+      {
+        "hour": 6,
+        "revenue": 7.77,
+        "orders": 2
+      },
+      {
+        "hour": 7,
+        "revenue": 29,
+        "orders": 6
+      },
+      {
+        "hour": 8,
+        "revenue": 91.84,
+        "orders": 18
+      },
+      {
+        "hour": 9,
+        "revenue": 88.87,
+        "orders": 14
+      },
+      {
+        "hour": 10,
+        "revenue": 66.79,
+        "orders": 14
+      },
+      {
+        "hour": 11,
+        "revenue": 106.14,
+        "orders": 17
+      },
+      {
+        "hour": 12,
+        "revenue": 177.04,
+        "orders": 22
+      },
+      {
+        "hour": 13,
+        "revenue": 131.65,
+        "orders": 18
+      },
+      {
+        "hour": 14,
+        "revenue": 60.07,
+        "orders": 12
+      },
+      {
+        "hour": 15,
+        "revenue": 37.53,
+        "orders": 9
+      },
+      {
+        "hour": 16,
+        "revenue": 26.05,
+        "orders": 7
+      },
+      {
+        "hour": 17,
+        "revenue": 27.49,
+        "orders": 7
+      },
+      {
+        "hour": 18,
+        "revenue": 23.24,
+        "orders": 5
+      },
+      {
+        "hour": 19,
+        "revenue": 25.01,
+        "orders": 6
+      },
+      {
+        "hour": 20,
+        "revenue": 11.34,
+        "orders": 3
+      },
+      {
+        "hour": 21,
+        "revenue": 9.07,
+        "orders": 2
+      }
+    ],
+    "items": [
+      {
+        "name": "Latte",
+        "category": "Drinks",
+        "qty": 30,
+        "revenue": 150
+      },
+      {
+        "name": "Drip Coffee",
+        "category": "Drinks",
+        "qty": 25,
+        "revenue": 62.5
+      },
+      {
+        "name": "Espresso",
+        "category": "Drinks",
+        "qty": 15,
+        "revenue": 52.5
+      },
+      {
+        "name": "Cappuccino",
+        "category": "Drinks",
+        "qty": 8,
+        "revenue": 38
+      },
+      {
+        "name": "Cold Brew",
+        "category": "Drinks",
+        "qty": 10,
+        "revenue": 45
+      },
+      {
+        "name": "Mocha",
+        "category": "Drinks",
+        "qty": 9,
+        "revenue": 49.5
+      },
+      {
+        "name": "Matcha Latte",
+        "category": "Drinks",
+        "qty": 8,
+        "revenue": 44
+      },
+      {
+        "name": "Green Smoothie",
+        "category": "Drinks",
+        "qty": 4,
+        "revenue": 24
+      },
+      {
+        "name": "Croissant",
+        "category": "Pastries",
+        "qty": 17,
+        "revenue": 63.75
+      },
+      {
+        "name": "Blueberry Muffin",
+        "category": "Pastries",
+        "qty": 7,
+        "revenue": 24.5
+      },
+      {
+        "name": "Banana Bread",
+        "category": "Pastries",
+        "qty": 8,
+        "revenue": 32
+      },
+      {
+        "name": "Avocado Toast",
+        "category": "Food",
+        "qty": 10,
+        "revenue": 85
+      },
+      {
+        "name": "Breakfast Burrito",
+        "category": "Food",
+        "qty": 9,
+        "revenue": 81
+      },
+      {
+        "name": "Bagel & Cream Cheese",
+        "category": "Food",
+        "qty": 6,
+        "revenue": 27
+      },
+      {
+        "name": "Seasonal Soup",
+        "category": "Food",
+        "qty": 9,
+        "revenue": 58.5
+      }
+    ]
+  },
+  {
+    "date": "2026-01-12",
+    "day_of_week": "Mon",
+    "total_revenue": 614.48,
+    "order_count": 112,
+    "avg_order_value": 5.49,
+    "hourly": [
+      {
+        "hour": 6,
+        "revenue": 9.28,
+        "orders": 2
+      },
+      {
+        "hour": 7,
+        "revenue": 40.5,
+        "orders": 8
+      },
+      {
+        "hour": 8,
+        "revenue": 62.84,
+        "orders": 13
+      },
+      {
+        "hour": 9,
+        "revenue": 76.35,
+        "orders": 13
+      },
+      {
+        "hour": 10,
+        "revenue": 30.56,
+        "orders": 8
+      },
+      {
+        "hour": 11,
+        "revenue": 65.41,
+        "orders": 10
+      },
+      {
+        "hour": 12,
+        "revenue": 88.69,
+        "orders": 13
+      },
+      {
+        "hour": 13,
+        "revenue": 48.28,
+        "orders": 7
+      },
+      {
+        "hour": 14,
+        "revenue": 38.43,
+        "orders": 7
+      },
+      {
+        "hour": 15,
+        "revenue": 32.26,
+        "orders": 6
+      },
+      {
+        "hour": 16,
+        "revenue": 30.23,
+        "orders": 6
+      },
+      {
+        "hour": 17,
+        "revenue": 29.06,
+        "orders": 6
+      },
+      {
+        "hour": 18,
+        "revenue": 25.56,
+        "orders": 5
+      },
+      {
+        "hour": 19,
+        "revenue": 17.46,
+        "orders": 4
+      },
+      {
+        "hour": 20,
+        "revenue": 14.5,
+        "orders": 3
+      },
+      {
+        "hour": 21,
+        "revenue": 5.07,
+        "orders": 1
+      }
+    ],
+    "items": [
+      {
+        "name": "Latte",
+        "category": "Drinks",
+        "qty": 14,
+        "revenue": 70
+      },
+      {
+        "name": "Drip Coffee",
+        "category": "Drinks",
+        "qty": 12,
+        "revenue": 30
+      },
+      {
+        "name": "Espresso",
+        "category": "Drinks",
+        "qty": 7,
+        "revenue": 24.5
+      },
+      {
+        "name": "Cappuccino",
+        "category": "Drinks",
+        "qty": 10,
+        "revenue": 47.5
+      },
+      {
+        "name": "Cold Brew",
+        "category": "Drinks",
+        "qty": 7,
+        "revenue": 31.5
+      },
+      {
+        "name": "Mocha",
+        "category": "Drinks",
+        "qty": 5,
+        "revenue": 27.5
+      },
+      {
+        "name": "Matcha Latte",
+        "category": "Drinks",
+        "qty": 3,
+        "revenue": 16.5
+      },
+      {
+        "name": "Green Smoothie",
+        "category": "Drinks",
+        "qty": 4,
+        "revenue": 24
+      },
+      {
+        "name": "Croissant",
+        "category": "Pastries",
+        "qty": 9,
+        "revenue": 33.75
+      },
+      {
+        "name": "Blueberry Muffin",
+        "category": "Pastries",
+        "qty": 7,
+        "revenue": 24.5
+      },
+      {
+        "name": "Banana Bread",
+        "category": "Pastries",
+        "qty": 4,
+        "revenue": 16
+      },
+      {
+        "name": "Avocado Toast",
+        "category": "Food",
+        "qty": 5,
+        "revenue": 42.5
+      },
+      {
+        "name": "Breakfast Burrito",
+        "category": "Food",
+        "qty": 6,
+        "revenue": 54
+      },
+      {
+        "name": "Bagel & Cream Cheese",
+        "category": "Food",
+        "qty": 4,
+        "revenue": 18
+      },
+      {
+        "name": "Seasonal Soup",
+        "category": "Food",
+        "qty": 2,
+        "revenue": 13
+      }
+    ]
+  },
+  {
+    "date": "2026-01-13",
+    "day_of_week": "Tue",
+    "total_revenue": 586.71,
+    "order_count": 111,
+    "avg_order_value": 5.29,
+    "hourly": [
+      {
+        "hour": 6,
+        "revenue": 10.94,
+        "orders": 3
+      },
+      {
+        "hour": 7,
+        "revenue": 41.16,
+        "orders": 9
+      },
+      {
+        "hour": 8,
+        "revenue": 65.5,
+        "orders": 14
+      },
+      {
+        "hour": 9,
+        "revenue": 53.14,
+        "orders": 11
+      },
+      {
+        "hour": 10,
+        "revenue": 34.06,
+        "orders": 8
+      },
+      {
+        "hour": 11,
+        "revenue": 65.58,
+        "orders": 9
+      },
+      {
+        "hour": 12,
+        "revenue": 69.99,
+        "orders": 10
+      },
+      {
+        "hour": 13,
+        "revenue": 77.83,
+        "orders": 10
+      },
+      {
+        "hour": 14,
+        "revenue": 37.64,
+        "orders": 7
+      },
+      {
+        "hour": 15,
+        "revenue": 30.91,
+        "orders": 6
+      },
+      {
+        "hour": 16,
+        "revenue": 27.24,
+        "orders": 6
+      },
+      {
+        "hour": 17,
+        "revenue": 21.1,
+        "orders": 5
+      },
+      {
+        "hour": 18,
+        "revenue": 18.6,
+        "orders": 5
+      },
+      {
+        "hour": 19,
+        "revenue": 20.53,
+        "orders": 5
+      },
+      {
+        "hour": 20,
+        "revenue": 8.08,
+        "orders": 2
+      },
+      {
+        "hour": 21,
+        "revenue": 4.41,
+        "orders": 1
+      }
+    ],
+    "items": [
+      {
+        "name": "Latte",
+        "category": "Drinks",
+        "qty": 18,
+        "revenue": 90
+      },
+      {
+        "name": "Drip Coffee",
+        "category": "Drinks",
+        "qty": 11,
+        "revenue": 27.5
+      },
+      {
+        "name": "Espresso",
+        "category": "Drinks",
+        "qty": 7,
+        "revenue": 24.5
+      },
+      {
+        "name": "Cappuccino",
+        "category": "Drinks",
+        "qty": 6,
+        "revenue": 28.5
+      },
+      {
+        "name": "Cold Brew",
+        "category": "Drinks",
+        "qty": 7,
+        "revenue": 31.5
+      },
+      {
+        "name": "Mocha",
+        "category": "Drinks",
+        "qty": 6,
+        "revenue": 33
+      },
+      {
+        "name": "Matcha Latte",
+        "category": "Drinks",
+        "qty": 4,
+        "revenue": 22
+      },
+      {
+        "name": "Green Smoothie",
+        "category": "Drinks",
+        "qty": 4,
+        "revenue": 24
+      },
+      {
+        "name": "Croissant",
+        "category": "Pastries",
+        "qty": 14,
+        "revenue": 52.5
+      },
+      {
+        "name": "Blueberry Muffin",
+        "category": "Pastries",
+        "qty": 7,
+        "revenue": 24.5
+      },
+      {
+        "name": "Banana Bread",
+        "category": "Pastries",
+        "qty": 4,
+        "revenue": 16
+      },
+      {
+        "name": "Avocado Toast",
+        "category": "Food",
+        "qty": 5,
+        "revenue": 42.5
+      },
+      {
+        "name": "Breakfast Burrito",
+        "category": "Food",
+        "qty": 7,
+        "revenue": 63
+      },
+      {
+        "name": "Bagel & Cream Cheese",
+        "category": "Food",
+        "qty": 3,
+        "revenue": 13.5
+      },
+      {
+        "name": "Seasonal Soup",
+        "category": "Food",
+        "qty": 6,
+        "revenue": 39
+      }
+    ]
+  },
+  {
+    "date": "2026-01-14",
+    "day_of_week": "Wed",
+    "total_revenue": 594.54,
+    "order_count": 112,
+    "avg_order_value": 5.31,
+    "hourly": [
+      {
+        "hour": 6,
+        "revenue": 7.59,
+        "orders": 2
+      },
+      {
+        "hour": 7,
+        "revenue": 49.6,
+        "orders": 9
+      },
+      {
+        "hour": 8,
+        "revenue": 96.16,
+        "orders": 16
+      },
+      {
+        "hour": 9,
+        "revenue": 59.18,
+        "orders": 10
+      },
+      {
+        "hour": 10,
+        "revenue": 34.22,
+        "orders": 7
+      },
+      {
+        "hour": 11,
+        "revenue": 58.61,
+        "orders": 9
+      },
+      {
+        "hour": 12,
+        "revenue": 80.11,
+        "orders": 13
+      },
+      {
+        "hour": 13,
+        "revenue": 59.21,
+        "orders": 9
+      },
+      {
+        "hour": 14,
+        "revenue": 22.43,
+        "orders": 5
+      },
+      {
+        "hour": 15,
+        "revenue": 26.09,
+        "orders": 7
+      },
+      {
+        "hour": 16,
+        "revenue": 28.36,
+        "orders": 6
+      },
+      {
+        "hour": 17,
+        "revenue": 22.69,
+        "orders": 6
+      },
+      {
+        "hour": 18,
+        "revenue": 18.09,
+        "orders": 5
+      },
+      {
+        "hour": 19,
+        "revenue": 15.86,
+        "orders": 4
+      },
+      {
+        "hour": 20,
+        "revenue": 11.87,
+        "orders": 3
+      },
+      {
+        "hour": 21,
+        "revenue": 4.47,
+        "orders": 1
+      }
+    ],
+    "items": [
+      {
+        "name": "Latte",
+        "category": "Drinks",
+        "qty": 22,
+        "revenue": 110
+      },
+      {
+        "name": "Drip Coffee",
+        "category": "Drinks",
+        "qty": 13,
+        "revenue": 32.5
+      },
+      {
+        "name": "Espresso",
+        "category": "Drinks",
+        "qty": 10,
+        "revenue": 35
+      },
+      {
+        "name": "Cappuccino",
+        "category": "Drinks",
+        "qty": 7,
+        "revenue": 33.25
+      },
+      {
+        "name": "Cold Brew",
+        "category": "Drinks",
+        "qty": 8,
+        "revenue": 36
+      },
+      {
+        "name": "Mocha",
+        "category": "Drinks",
+        "qty": 5,
+        "revenue": 27.5
+      },
+      {
+        "name": "Matcha Latte",
+        "category": "Drinks",
+        "qty": 3,
+        "revenue": 16.5
+      },
+      {
+        "name": "Green Smoothie",
+        "category": "Drinks",
+        "qty": 3,
+        "revenue": 18
+      },
+      {
+        "name": "Croissant",
+        "category": "Pastries",
+        "qty": 15,
+        "revenue": 56.25
+      },
+      {
+        "name": "Blueberry Muffin",
+        "category": "Pastries",
+        "qty": 6,
+        "revenue": 21
+      },
+      {
+        "name": "Banana Bread",
+        "category": "Pastries",
+        "qty": 5,
+        "revenue": 20
+      },
+      {
+        "name": "Avocado Toast",
+        "category": "Food",
+        "qty": 4,
+        "revenue": 34
+      },
+      {
+        "name": "Breakfast Burrito",
+        "category": "Food",
+        "qty": 5,
+        "revenue": 45
+      },
+      {
+        "name": "Bagel & Cream Cheese",
+        "category": "Food",
+        "qty": 3,
+        "revenue": 13.5
+      },
+      {
+        "name": "Seasonal Soup",
+        "category": "Food",
+        "qty": 4,
+        "revenue": 26
+      }
+    ]
+  },
+  {
+    "date": "2026-01-15",
+    "day_of_week": "Thu",
+    "total_revenue": 614.08,
+    "order_count": 120,
+    "avg_order_value": 5.12,
+    "hourly": [
+      {
+        "hour": 6,
+        "revenue": 8.13,
+        "orders": 2
+      },
+      {
+        "hour": 7,
+        "revenue": 51.2,
+        "orders": 9
+      },
+      {
+        "hour": 8,
+        "revenue": 99.97,
+        "orders": 17
+      },
+      {
+        "hour": 9,
+        "revenue": 71.63,
+        "orders": 15
+      },
+      {
+        "hour": 10,
+        "revenue": 33.26,
+        "orders": 9
+      },
+      {
+        "hour": 11,
+        "revenue": 49.23,
+        "orders": 7
+      },
+      {
+        "hour": 12,
+        "revenue": 66.41,
+        "orders": 11
+      },
+      {
+        "hour": 13,
+        "revenue": 69.89,
+        "orders": 11
+      },
+      {
+        "hour": 14,
+        "revenue": 21.22,
+        "orders": 6
+      },
+      {
+        "hour": 15,
+        "revenue": 24.3,
+        "orders": 6
+      },
+      {
+        "hour": 16,
+        "revenue": 32.72,
+        "orders": 7
+      },
+      {
+        "hour": 17,
+        "revenue": 26.88,
+        "orders": 7
+      },
+      {
+        "hour": 18,
+        "revenue": 15.33,
+        "orders": 4
+      },
+      {
+        "hour": 19,
+        "revenue": 22.84,
+        "orders": 5
+      },
+      {
+        "hour": 20,
+        "revenue": 16.07,
+        "orders": 3
+      },
+      {
+        "hour": 21,
+        "revenue": 5,
+        "orders": 1
+      }
+    ],
+    "items": [
+      {
+        "name": "Latte",
+        "category": "Drinks",
+        "qty": 23,
+        "revenue": 115
+      },
+      {
+        "name": "Drip Coffee",
+        "category": "Drinks",
+        "qty": 12,
+        "revenue": 30
+      },
+      {
+        "name": "Espresso",
+        "category": "Drinks",
+        "qty": 11,
+        "revenue": 38.5
+      },
+      {
+        "name": "Cappuccino",
+        "category": "Drinks",
+        "qty": 9,
+        "revenue": 42.75
+      },
+      {
+        "name": "Cold Brew",
+        "category": "Drinks",
+        "qty": 6,
+        "revenue": 27
+      },
+      {
+        "name": "Mocha",
+        "category": "Drinks",
+        "qty": 8,
+        "revenue": 44
+      },
+      {
+        "name": "Matcha Latte",
+        "category": "Drinks",
+        "qty": 4,
+        "revenue": 22
+      },
+      {
+        "name": "Green Smoothie",
+        "category": "Drinks",
+        "qty": 3,
+        "revenue": 18
+      },
+      {
+        "name": "Croissant",
+        "category": "Pastries",
+        "qty": 14,
+        "revenue": 52.5
+      },
+      {
+        "name": "Blueberry Muffin",
+        "category": "Pastries",
+        "qty": 6,
+        "revenue": 21
+      },
+      {
+        "name": "Banana Bread",
+        "category": "Pastries",
+        "qty": 4,
+        "revenue": 16
+      },
+      {
+        "name": "Avocado Toast",
+        "category": "Food",
+        "qty": 8,
+        "revenue": 68
+      },
+      {
+        "name": "Breakfast Burrito",
+        "category": "Food",
+        "qty": 8,
+        "revenue": 72
+      },
+      {
+        "name": "Bagel & Cream Cheese",
+        "category": "Food",
+        "qty": 3,
+        "revenue": 13.5
+      },
+      {
+        "name": "Seasonal Soup",
+        "category": "Food",
+        "qty": 3,
+        "revenue": 19.5
+      }
+    ]
+  },
+  {
+    "date": "2026-01-16",
+    "day_of_week": "Fri",
+    "total_revenue": 693.35,
+    "order_count": 122,
+    "avg_order_value": 5.68,
+    "hourly": [
+      {
+        "hour": 6,
+        "revenue": 16.41,
+        "orders": 3
+      },
+      {
+        "hour": 7,
+        "revenue": 53.45,
+        "orders": 10
+      },
+      {
+        "hour": 8,
+        "revenue": 100.86,
+        "orders": 16
+      },
+      {
+        "hour": 9,
+        "revenue": 85.42,
+        "orders": 14
+      },
+      {
+        "hour": 10,
+        "revenue": 37.67,
+        "orders": 8
+      },
+      {
+        "hour": 11,
+        "revenue": 72.11,
+        "orders": 11
+      },
+      {
+        "hour": 12,
+        "revenue": 85.87,
+        "orders": 12
+      },
+      {
+        "hour": 13,
+        "revenue": 61.5,
+        "orders": 8
+      },
+      {
+        "hour": 14,
+        "revenue": 32.79,
+        "orders": 7
+      },
+      {
+        "hour": 15,
+        "revenue": 41.09,
+        "orders": 8
+      },
+      {
+        "hour": 16,
+        "revenue": 23.94,
+        "orders": 6
+      },
+      {
+        "hour": 17,
+        "revenue": 28.47,
+        "orders": 6
+      },
+      {
+        "hour": 18,
+        "revenue": 22.77,
+        "orders": 5
+      },
+      {
+        "hour": 19,
+        "revenue": 14.06,
+        "orders": 4
+      },
+      {
+        "hour": 20,
+        "revenue": 11.62,
+        "orders": 3
+      },
+      {
+        "hour": 21,
+        "revenue": 5.32,
+        "orders": 1
+      }
+    ],
+    "items": [
+      {
+        "name": "Latte",
+        "category": "Drinks",
+        "qty": 27,
+        "revenue": 135
+      },
+      {
+        "name": "Drip Coffee",
+        "category": "Drinks",
+        "qty": 19,
+        "revenue": 47.5
+      },
+      {
+        "name": "Espresso",
+        "category": "Drinks",
+        "qty": 8,
+        "revenue": 28
+      },
+      {
+        "name": "Cappuccino",
+        "category": "Drinks",
+        "qty": 11,
+        "revenue": 52.25
+      },
+      {
+        "name": "Cold Brew",
+        "category": "Drinks",
+        "qty": 6,
+        "revenue": 27
+      },
+      {
+        "name": "Mocha",
+        "category": "Drinks",
+        "qty": 7,
+        "revenue": 38.5
+      },
+      {
+        "name": "Matcha Latte",
+        "category": "Drinks",
+        "qty": 6,
+        "revenue": 33
+      },
+      {
+        "name": "Green Smoothie",
+        "category": "Drinks",
+        "qty": 3,
+        "revenue": 18
+      },
+      {
+        "name": "Croissant",
+        "category": "Pastries",
+        "qty": 10,
+        "revenue": 37.5
+      },
+      {
+        "name": "Blueberry Muffin",
+        "category": "Pastries",
+        "qty": 9,
+        "revenue": 31.5
+      },
+      {
+        "name": "Banana Bread",
+        "category": "Pastries",
+        "qty": 6,
+        "revenue": 24
+      },
+      {
+        "name": "Avocado Toast",
+        "category": "Food",
+        "qty": 6,
+        "revenue": 51
+      },
+      {
+        "name": "Breakfast Burrito",
+        "category": "Food",
+        "qty": 6,
+        "revenue": 54
+      },
+      {
+        "name": "Bagel & Cream Cheese",
+        "category": "Food",
+        "qty": 3,
+        "revenue": 13.5
+      },
+      {
+        "name": "Seasonal Soup",
+        "category": "Food",
+        "qty": 3,
+        "revenue": 19.5
+      }
+    ]
+  },
+  {
+    "date": "2026-01-17",
+    "day_of_week": "Sat",
+    "total_revenue": 942.56,
+    "order_count": 165,
+    "avg_order_value": 5.71,
+    "hourly": [
+      {
+        "hour": 6,
+        "revenue": 4.81,
+        "orders": 1
+      },
+      {
+        "hour": 7,
+        "revenue": 35.89,
+        "orders": 6
+      },
+      {
+        "hour": 8,
+        "revenue": 142.49,
+        "orders": 23
+      },
+      {
+        "hour": 9,
+        "revenue": 98.2,
+        "orders": 18
+      },
+      {
+        "hour": 10,
+        "revenue": 75.7,
+        "orders": 16
+      },
+      {
+        "hour": 11,
+        "revenue": 126.19,
+        "orders": 15
+      },
+      {
+        "hour": 12,
+        "revenue": 100.47,
+        "orders": 16
+      },
+      {
+        "hour": 13,
+        "revenue": 103.88,
+        "orders": 13
+      },
+      {
+        "hour": 14,
+        "revenue": 43.58,
+        "orders": 11
+      },
+      {
+        "hour": 15,
+        "revenue": 39.76,
+        "orders": 10
+      },
+      {
+        "hour": 16,
+        "revenue": 34.61,
+        "orders": 8
+      },
+      {
+        "hour": 17,
+        "revenue": 47.92,
+        "orders": 9
+      },
+      {
+        "hour": 18,
+        "revenue": 32.66,
+        "orders": 7
+      },
+      {
+        "hour": 19,
+        "revenue": 33.29,
+        "orders": 7
+      },
+      {
+        "hour": 20,
+        "revenue": 12.12,
+        "orders": 3
+      },
+      {
+        "hour": 21,
+        "revenue": 10.99,
+        "orders": 2
+      }
+    ],
+    "items": [
+      {
+        "name": "Latte",
+        "category": "Drinks",
+        "qty": 21,
+        "revenue": 105
+      },
+      {
+        "name": "Drip Coffee",
+        "category": "Drinks",
+        "qty": 18,
+        "revenue": 45
+      },
+      {
+        "name": "Espresso",
+        "category": "Drinks",
+        "qty": 16,
+        "revenue": 56
+      },
+      {
+        "name": "Cappuccino",
+        "category": "Drinks",
+        "qty": 10,
+        "revenue": 47.5
+      },
+      {
+        "name": "Cold Brew",
+        "category": "Drinks",
+        "qty": 11,
+        "revenue": 49.5
+      },
+      {
+        "name": "Mocha",
+        "category": "Drinks",
+        "qty": 6,
+        "revenue": 33
+      },
+      {
+        "name": "Matcha Latte",
+        "category": "Drinks",
+        "qty": 7,
+        "revenue": 38.5
+      },
+      {
+        "name": "Green Smoothie",
+        "category": "Drinks",
+        "qty": 4,
+        "revenue": 24
+      },
+      {
+        "name": "Croissant",
+        "category": "Pastries",
+        "qty": 12,
+        "revenue": 45
+      },
+      {
+        "name": "Blueberry Muffin",
+        "category": "Pastries",
+        "qty": 7,
+        "revenue": 24.5
+      },
+      {
+        "name": "Banana Bread",
+        "category": "Pastries",
+        "qty": 9,
+        "revenue": 36
+      },
+      {
+        "name": "Avocado Toast",
+        "category": "Food",
+        "qty": 7,
+        "revenue": 59.5
+      },
+      {
+        "name": "Breakfast Burrito",
+        "category": "Food",
+        "qty": 9,
+        "revenue": 81
+      },
+      {
+        "name": "Bagel & Cream Cheese",
+        "category": "Food",
+        "qty": 4,
+        "revenue": 18
+      },
+      {
+        "name": "Seasonal Soup",
+        "category": "Food",
+        "qty": 4,
+        "revenue": 26
+      }
+    ]
+  },
+  {
+    "date": "2026-01-18",
+    "day_of_week": "Sun",
+    "total_revenue": 1148.57,
+    "order_count": 206,
+    "avg_order_value": 5.58,
+    "hourly": [
+      {
+        "hour": 6,
+        "revenue": 8.32,
+        "orders": 2
+      },
+      {
+        "hour": 7,
+        "revenue": 40.07,
+        "orders": 7
+      },
+      {
+        "hour": 8,
+        "revenue": 139.7,
+        "orders": 28
+      },
+      {
+        "hour": 9,
+        "revenue": 80.78,
+        "orders": 17
+      },
+      {
+        "hour": 10,
+        "revenue": 74.19,
+        "orders": 18
+      },
+      {
+        "hour": 11,
+        "revenue": 152.3,
+        "orders": 23
+      },
+      {
+        "hour": 12,
+        "revenue": 236.98,
+        "orders": 28
+      },
+      {
+        "hour": 13,
+        "revenue": 134.92,
+        "orders": 16
+      },
+      {
+        "hour": 14,
+        "revenue": 55.68,
+        "orders": 15
+      },
+      {
+        "hour": 15,
+        "revenue": 50.87,
+        "orders": 11
+      },
+      {
+        "hour": 16,
+        "revenue": 43.39,
+        "orders": 11
+      },
+      {
+        "hour": 17,
+        "revenue": 34.38,
+        "orders": 8
+      },
+      {
+        "hour": 18,
+        "revenue": 31.73,
+        "orders": 8
+      },
+      {
+        "hour": 19,
+        "revenue": 36.42,
+        "orders": 8
+      },
+      {
+        "hour": 20,
+        "revenue": 18.5,
+        "orders": 4
+      },
+      {
+        "hour": 21,
+        "revenue": 10.34,
+        "orders": 2
+      }
+    ],
+    "items": [
+      {
+        "name": "Latte",
+        "category": "Drinks",
+        "qty": 25,
+        "revenue": 125
+      },
+      {
+        "name": "Drip Coffee",
+        "category": "Drinks",
+        "qty": 24,
+        "revenue": 60
+      },
+      {
+        "name": "Espresso",
+        "category": "Drinks",
+        "qty": 20,
+        "revenue": 70
+      },
+      {
+        "name": "Cappuccino",
+        "category": "Drinks",
+        "qty": 15,
+        "revenue": 71.25
+      },
+      {
+        "name": "Cold Brew",
+        "category": "Drinks",
+        "qty": 14,
+        "revenue": 63
+      },
+      {
+        "name": "Mocha",
+        "category": "Drinks",
+        "qty": 13,
+        "revenue": 71.5
+      },
+      {
+        "name": "Matcha Latte",
+        "category": "Drinks",
+        "qty": 6,
+        "revenue": 33
+      },
+      {
+        "name": "Green Smoothie",
+        "category": "Drinks",
+        "qty": 7,
+        "revenue": 42
+      },
+      {
+        "name": "Croissant",
+        "category": "Pastries",
+        "qty": 16,
+        "revenue": 60
+      },
+      {
+        "name": "Blueberry Muffin",
+        "category": "Pastries",
+        "qty": 15,
+        "revenue": 52.5
+      },
+      {
+        "name": "Banana Bread",
+        "category": "Pastries",
+        "qty": 9,
+        "revenue": 36
+      },
+      {
+        "name": "Avocado Toast",
+        "category": "Food",
+        "qty": 13,
+        "revenue": 110.5
+      },
+      {
+        "name": "Breakfast Burrito",
+        "category": "Food",
+        "qty": 12,
+        "revenue": 108
+      },
+      {
+        "name": "Bagel & Cream Cheese",
+        "category": "Food",
+        "qty": 6,
+        "revenue": 27
+      },
+      {
+        "name": "Seasonal Soup",
+        "category": "Food",
+        "qty": 8,
+        "revenue": 52
+      }
+    ]
+  },
+  {
+    "date": "2026-01-19",
+    "day_of_week": "Mon",
+    "total_revenue": 564.66,
+    "order_count": 108,
+    "avg_order_value": 5.23,
+    "hourly": [
+      {
+        "hour": 6,
+        "revenue": 8.18,
+        "orders": 2
+      },
+      {
+        "hour": 7,
+        "revenue": 34.07,
+        "orders": 7
+      },
+      {
+        "hour": 8,
+        "revenue": 74.97,
+        "orders": 16
+      },
+      {
+        "hour": 9,
+        "revenue": 41.56,
+        "orders": 9
+      },
+      {
+        "hour": 10,
+        "revenue": 33.43,
+        "orders": 8
+      },
+      {
+        "hour": 11,
+        "revenue": 48.79,
+        "orders": 7
+      },
+      {
+        "hour": 12,
+        "revenue": 87.57,
+        "orders": 12
+      },
+      {
+        "hour": 13,
+        "revenue": 70.51,
+        "orders": 9
+      },
+      {
+        "hour": 14,
+        "revenue": 33.73,
+        "orders": 7
+      },
+      {
+        "hour": 15,
+        "revenue": 29.1,
+        "orders": 7
+      },
+      {
+        "hour": 16,
+        "revenue": 21.56,
+        "orders": 6
+      },
+      {
+        "hour": 17,
+        "revenue": 24.86,
+        "orders": 6
+      },
+      {
+        "hour": 18,
+        "revenue": 18.27,
+        "orders": 4
+      },
+      {
+        "hour": 19,
+        "revenue": 26.43,
+        "orders": 5
+      },
+      {
+        "hour": 20,
+        "revenue": 7.89,
+        "orders": 2
+      },
+      {
+        "hour": 21,
+        "revenue": 3.74,
+        "orders": 1
+      }
+    ],
+    "items": [
+      {
+        "name": "Latte",
+        "category": "Drinks",
+        "qty": 16,
+        "revenue": 80
+      },
+      {
+        "name": "Drip Coffee",
+        "category": "Drinks",
+        "qty": 19,
+        "revenue": 47.5
+      },
+      {
+        "name": "Espresso",
+        "category": "Drinks",
+        "qty": 11,
+        "revenue": 38.5
+      },
+      {
+        "name": "Cappuccino",
+        "category": "Drinks",
+        "qty": 8,
+        "revenue": 38
+      },
+      {
+        "name": "Cold Brew",
+        "category": "Drinks",
+        "qty": 5,
+        "revenue": 22.5
+      },
+      {
+        "name": "Mocha",
+        "category": "Drinks",
+        "qty": 7,
+        "revenue": 38.5
+      },
+      {
+        "name": "Matcha Latte",
+        "category": "Drinks",
+        "qty": 4,
+        "revenue": 22
+      },
+      {
+        "name": "Green Smoothie",
+        "category": "Drinks",
+        "qty": 4,
+        "revenue": 24
+      },
+      {
+        "name": "Croissant",
+        "category": "Pastries",
+        "qty": 12,
+        "revenue": 45
+      },
+      {
+        "name": "Blueberry Muffin",
+        "category": "Pastries",
+        "qty": 5,
+        "revenue": 17.5
+      },
+      {
+        "name": "Banana Bread",
+        "category": "Pastries",
+        "qty": 6,
+        "revenue": 24
+      },
+      {
+        "name": "Avocado Toast",
+        "category": "Food",
+        "qty": 4,
+        "revenue": 34
+      },
+      {
+        "name": "Breakfast Burrito",
+        "category": "Food",
+        "qty": 4,
+        "revenue": 36
+      },
+      {
+        "name": "Bagel & Cream Cheese",
+        "category": "Food",
+        "qty": 2,
+        "revenue": 9
+      },
+      {
+        "name": "Seasonal Soup",
+        "category": "Food",
+        "qty": 4,
+        "revenue": 26
+      }
+    ]
+  },
+  {
+    "date": "2026-01-20",
+    "day_of_week": "Tue",
+    "total_revenue": 695.23,
+    "order_count": 125,
+    "avg_order_value": 5.56,
+    "hourly": [
+      {
+        "hour": 6,
+        "revenue": 13.06,
+        "orders": 3
+      },
+      {
+        "hour": 7,
+        "revenue": 44.51,
+        "orders": 9
+      },
+      {
+        "hour": 8,
+        "revenue": 133.12,
+        "orders": 21
+      },
+      {
+        "hour": 9,
+        "revenue": 89.77,
+        "orders": 16
+      },
+      {
+        "hour": 10,
+        "revenue": 30.24,
+        "orders": 7
+      },
+      {
+        "hour": 11,
+        "revenue": 65.96,
+        "orders": 10
+      },
+      {
+        "hour": 12,
+        "revenue": 76.64,
+        "orders": 10
+      },
+      {
+        "hour": 13,
+        "revenue": 73.06,
+        "orders": 11
+      },
+      {
+        "hour": 14,
+        "revenue": 31.8,
+        "orders": 8
+      },
+      {
+        "hour": 15,
+        "revenue": 23.98,
+        "orders": 6
+      },
+      {
+        "hour": 16,
+        "revenue": 27.25,
+        "orders": 6
+      },
+      {
+        "hour": 17,
+        "revenue": 21.51,
+        "orders": 5
+      },
+      {
+        "hour": 18,
+        "revenue": 20.1,
+        "orders": 4
+      },
+      {
+        "hour": 19,
+        "revenue": 30.63,
+        "orders": 6
+      },
+      {
+        "hour": 20,
+        "revenue": 9.77,
+        "orders": 2
+      },
+      {
+        "hour": 21,
+        "revenue": 3.83,
+        "orders": 1
+      }
+    ],
+    "items": [
+      {
+        "name": "Latte",
+        "category": "Drinks",
+        "qty": 20,
+        "revenue": 100
+      },
+      {
+        "name": "Drip Coffee",
+        "category": "Drinks",
+        "qty": 20,
+        "revenue": 50
+      },
+      {
+        "name": "Espresso",
+        "category": "Drinks",
+        "qty": 12,
+        "revenue": 42
+      },
+      {
+        "name": "Cappuccino",
+        "category": "Drinks",
+        "qty": 11,
+        "revenue": 52.25
+      },
+      {
+        "name": "Cold Brew",
+        "category": "Drinks",
+        "qty": 6,
+        "revenue": 27
+      },
+      {
+        "name": "Mocha",
+        "category": "Drinks",
+        "qty": 6,
+        "revenue": 33
+      },
+      {
+        "name": "Matcha Latte",
+        "category": "Drinks",
+        "qty": 4,
+        "revenue": 22
+      },
+      {
+        "name": "Green Smoothie",
+        "category": "Drinks",
+        "qty": 4,
+        "revenue": 24
+      },
+      {
+        "name": "Croissant",
+        "category": "Pastries",
+        "qty": 9,
+        "revenue": 33.75
+      },
+      {
+        "name": "Blueberry Muffin",
+        "category": "Pastries",
+        "qty": 8,
+        "revenue": 28
+      },
+      {
+        "name": "Banana Bread",
+        "category": "Pastries",
+        "qty": 6,
+        "revenue": 24
+      },
+      {
+        "name": "Avocado Toast",
+        "category": "Food",
+        "qty": 5,
+        "revenue": 42.5
+      },
+      {
+        "name": "Breakfast Burrito",
+        "category": "Food",
+        "qty": 7,
+        "revenue": 63
+      },
+      {
+        "name": "Bagel & Cream Cheese",
+        "category": "Food",
+        "qty": 3,
+        "revenue": 13.5
+      },
+      {
+        "name": "Seasonal Soup",
+        "category": "Food",
+        "qty": 4,
+        "revenue": 26
+      }
+    ]
+  },
+  {
+    "date": "2026-01-21",
+    "day_of_week": "Wed",
+    "total_revenue": 545.27,
+    "order_count": 97,
+    "avg_order_value": 5.62,
+    "hourly": [
+      {
+        "hour": 6,
+        "revenue": 9.71,
+        "orders": 2
+      },
+      {
+        "hour": 7,
+        "revenue": 37.15,
+        "orders": 6
+      },
+      {
+        "hour": 8,
+        "revenue": 76.49,
+        "orders": 13
+      },
+      {
+        "hour": 9,
+        "revenue": 76.26,
+        "orders": 12
+      },
+      {
+        "hour": 10,
+        "revenue": 32.99,
+        "orders": 8
+      },
+      {
+        "hour": 11,
+        "revenue": 62.13,
+        "orders": 8
+      },
+      {
+        "hour": 12,
+        "revenue": 66.74,
+        "orders": 11
+      },
+      {
+        "hour": 13,
+        "revenue": 48,
+        "orders": 7
+      },
+      {
+        "hour": 14,
+        "revenue": 28.6,
+        "orders": 6
+      },
+      {
+        "hour": 15,
+        "revenue": 20.23,
+        "orders": 5
+      },
+      {
+        "hour": 16,
+        "revenue": 19.03,
+        "orders": 5
+      },
+      {
+        "hour": 17,
+        "revenue": 20.9,
+        "orders": 4
+      },
+      {
+        "hour": 18,
+        "revenue": 12.48,
+        "orders": 3
+      },
+      {
+        "hour": 19,
+        "revenue": 20.23,
+        "orders": 4
+      },
+      {
+        "hour": 20,
+        "revenue": 10.56,
+        "orders": 2
+      },
+      {
+        "hour": 21,
+        "revenue": 3.77,
+        "orders": 1
+      }
+    ],
+    "items": [
+      {
+        "name": "Latte",
+        "category": "Drinks",
+        "qty": 19,
+        "revenue": 95
+      },
+      {
+        "name": "Drip Coffee",
+        "category": "Drinks",
+        "qty": 13,
+        "revenue": 32.5
+      },
+      {
+        "name": "Espresso",
+        "category": "Drinks",
+        "qty": 6,
+        "revenue": 21
+      },
+      {
+        "name": "Cappuccino",
+        "category": "Drinks",
+        "qty": 7,
+        "revenue": 33.25
+      },
+      {
+        "name": "Cold Brew",
+        "category": "Drinks",
+        "qty": 7,
+        "revenue": 31.5
+      },
+      {
+        "name": "Mocha",
+        "category": "Drinks",
+        "qty": 5,
+        "revenue": 27.5
+      },
+      {
+        "name": "Matcha Latte",
+        "category": "Drinks",
+        "qty": 5,
+        "revenue": 27.5
+      },
+      {
+        "name": "Green Smoothie",
+        "category": "Drinks",
+        "qty": 2,
+        "revenue": 12
+      },
+      {
+        "name": "Croissant",
+        "category": "Pastries",
+        "qty": 12,
+        "revenue": 45
+      },
+      {
+        "name": "Blueberry Muffin",
+        "category": "Pastries",
+        "qty": 6,
+        "revenue": 21
+      },
+      {
+        "name": "Banana Bread",
+        "category": "Pastries",
+        "qty": 5,
+        "revenue": 20
+      },
+      {
+        "name": "Avocado Toast",
+        "category": "Food",
+        "qty": 4,
+        "revenue": 34
+      },
+      {
+        "name": "Breakfast Burrito",
+        "category": "Food",
+        "qty": 5,
+        "revenue": 45
+      },
+      {
+        "name": "Bagel & Cream Cheese",
+        "category": "Food",
+        "qty": 3,
+        "revenue": 13.5
+      },
+      {
+        "name": "Seasonal Soup",
+        "category": "Food",
+        "qty": 3,
+        "revenue": 19.5
+      }
+    ]
+  },
+  {
+    "date": "2026-01-22",
+    "day_of_week": "Thu",
+    "total_revenue": 449.9,
+    "order_count": 82,
+    "avg_order_value": 5.49,
+    "hourly": [
+      {
+        "hour": 6,
+        "revenue": 5.48,
+        "orders": 1
+      },
+      {
+        "hour": 7,
+        "revenue": 33.86,
+        "orders": 6
+      },
+      {
+        "hour": 8,
+        "revenue": 63.41,
+        "orders": 12
+      },
+      {
+        "hour": 9,
+        "revenue": 58.2,
+        "orders": 9
+      },
+      {
+        "hour": 10,
+        "revenue": 28.71,
+        "orders": 7
+      },
+      {
+        "hour": 11,
+        "revenue": 40.07,
+        "orders": 5
+      },
+      {
+        "hour": 12,
+        "revenue": 48.42,
+        "orders": 8
+      },
+      {
+        "hour": 13,
+        "revenue": 48.2,
+        "orders": 6
+      },
+      {
+        "hour": 14,
+        "revenue": 20.3,
+        "orders": 5
+      },
+      {
+        "hour": 15,
+        "revenue": 24.28,
+        "orders": 5
+      },
+      {
+        "hour": 16,
+        "revenue": 17.75,
+        "orders": 4
+      },
+      {
+        "hour": 17,
+        "revenue": 21.28,
+        "orders": 5
+      },
+      {
+        "hour": 18,
+        "revenue": 13.7,
+        "orders": 3
+      },
+      {
+        "hour": 19,
+        "revenue": 11,
+        "orders": 3
+      },
+      {
+        "hour": 20,
+        "revenue": 9.82,
+        "orders": 2
+      },
+      {
+        "hour": 21,
+        "revenue": 5.42,
+        "orders": 1
+      }
+    ],
+    "items": [
+      {
+        "name": "Latte",
+        "category": "Drinks",
+        "qty": 14,
+        "revenue": 70
+      },
+      {
+        "name": "Drip Coffee",
+        "category": "Drinks",
+        "qty": 12,
+        "revenue": 30
+      },
+      {
+        "name": "Espresso",
+        "category": "Drinks",
+        "qty": 5,
+        "revenue": 17.5
+      },
+      {
+        "name": "Cappuccino",
+        "category": "Drinks",
+        "qty": 5,
+        "revenue": 23.75
+      },
+      {
+        "name": "Cold Brew",
+        "category": "Drinks",
+        "qty": 5,
+        "revenue": 22.5
+      },
+      {
+        "name": "Mocha",
+        "category": "Drinks",
+        "qty": 5,
+        "revenue": 27.5
+      },
+      {
+        "name": "Matcha Latte",
+        "category": "Drinks",
+        "qty": 3,
+        "revenue": 16.5
+      },
+      {
+        "name": "Green Smoothie",
+        "category": "Drinks",
+        "qty": 2,
+        "revenue": 12
+      },
+      {
+        "name": "Croissant",
+        "category": "Pastries",
+        "qty": 6,
+        "revenue": 22.5
+      },
+      {
+        "name": "Blueberry Muffin",
+        "category": "Pastries",
+        "qty": 6,
+        "revenue": 21
+      },
+      {
+        "name": "Banana Bread",
+        "category": "Pastries",
+        "qty": 3,
+        "revenue": 12
+      },
+      {
+        "name": "Avocado Toast",
+        "category": "Food",
+        "qty": 3,
+        "revenue": 25.5
+      },
+      {
+        "name": "Breakfast Burrito",
+        "category": "Food",
+        "qty": 4,
+        "revenue": 36
+      },
+      {
+        "name": "Bagel & Cream Cheese",
+        "category": "Food",
+        "qty": 2,
+        "revenue": 9
+      },
+      {
+        "name": "Seasonal Soup",
+        "category": "Food",
+        "qty": 3,
+        "revenue": 19.5
+      }
+    ]
+  },
+  {
+    "date": "2026-01-23",
+    "day_of_week": "Fri",
+    "total_revenue": 553.42,
+    "order_count": 101,
+    "avg_order_value": 5.48,
+    "hourly": [
+      {
+        "hour": 6,
+        "revenue": 8.67,
+        "orders": 2
+      },
+      {
+        "hour": 7,
+        "revenue": 46.81,
+        "orders": 8
+      },
+      {
+        "hour": 8,
+        "revenue": 66.6,
+        "orders": 11
+      },
+      {
+        "hour": 9,
+        "revenue": 66.19,
+        "orders": 12
+      },
+      {
+        "hour": 10,
+        "revenue": 28.58,
+        "orders": 7
+      },
+      {
+        "hour": 11,
+        "revenue": 47.12,
+        "orders": 7
+      },
+      {
+        "hour": 12,
+        "revenue": 92.57,
+        "orders": 12
+      },
+      {
+        "hour": 13,
+        "revenue": 58.52,
+        "orders": 8
+      },
+      {
+        "hour": 14,
+        "revenue": 24.53,
+        "orders": 6
+      },
+      {
+        "hour": 15,
+        "revenue": 21.86,
+        "orders": 6
+      },
+      {
+        "hour": 16,
+        "revenue": 26.99,
+        "orders": 5
+      },
+      {
+        "hour": 17,
+        "revenue": 22.42,
+        "orders": 6
+      },
+      {
+        "hour": 18,
+        "revenue": 16.46,
+        "orders": 4
+      },
+      {
+        "hour": 19,
+        "revenue": 14.72,
+        "orders": 4
+      },
+      {
+        "hour": 20,
+        "revenue": 7.46,
+        "orders": 2
+      },
+      {
+        "hour": 21,
+        "revenue": 3.92,
+        "orders": 1
+      }
+    ],
+    "items": [
+      {
+        "name": "Latte",
+        "category": "Drinks",
+        "qty": 20,
+        "revenue": 100
+      },
+      {
+        "name": "Drip Coffee",
+        "category": "Drinks",
+        "qty": 18,
+        "revenue": 45
+      },
+      {
+        "name": "Espresso",
+        "category": "Drinks",
+        "qty": 8,
+        "revenue": 28
+      },
+      {
+        "name": "Cappuccino",
+        "category": "Drinks",
+        "qty": 7,
+        "revenue": 33.25
+      },
+      {
+        "name": "Cold Brew",
+        "category": "Drinks",
+        "qty": 6,
+        "revenue": 27
+      },
+      {
+        "name": "Mocha",
+        "category": "Drinks",
+        "qty": 6,
+        "revenue": 33
+      },
+      {
+        "name": "Matcha Latte",
+        "category": "Drinks",
+        "qty": 5,
+        "revenue": 27.5
+      },
+      {
+        "name": "Green Smoothie",
+        "category": "Drinks",
+        "qty": 2,
+        "revenue": 12
+      },
+      {
+        "name": "Croissant",
+        "category": "Pastries",
+        "qty": 13,
+        "revenue": 48.75
+      },
+      {
+        "name": "Blueberry Muffin",
+        "category": "Pastries",
+        "qty": 6,
+        "revenue": 21
+      },
+      {
+        "name": "Banana Bread",
+        "category": "Pastries",
+        "qty": 4,
+        "revenue": 16
+      },
+      {
+        "name": "Avocado Toast",
+        "category": "Food",
+        "qty": 5,
+        "revenue": 42.5
+      },
+      {
+        "name": "Breakfast Burrito",
+        "category": "Food",
+        "qty": 4,
+        "revenue": 36
+      },
+      {
+        "name": "Bagel & Cream Cheese",
+        "category": "Food",
+        "qty": 4,
+        "revenue": 18
+      },
+      {
+        "name": "Seasonal Soup",
+        "category": "Food",
+        "qty": 4,
+        "revenue": 26
+      }
+    ]
+  },
+  {
+    "date": "2026-01-24",
+    "day_of_week": "Sat",
+    "total_revenue": 946.65,
+    "order_count": 174,
+    "avg_order_value": 5.44,
+    "hourly": [
+      {
+        "hour": 6,
+        "revenue": 5.13,
+        "orders": 1
+      },
+      {
+        "hour": 7,
+        "revenue": 32.33,
+        "orders": 5
+      },
+      {
+        "hour": 8,
+        "revenue": 130.75,
+        "orders": 23
+      },
+      {
+        "hour": 9,
+        "revenue": 92.41,
+        "orders": 20
+      },
+      {
+        "hour": 10,
+        "revenue": 63.28,
+        "orders": 15
+      },
+      {
+        "hour": 11,
+        "revenue": 144.24,
+        "orders": 17
+      },
+      {
+        "hour": 12,
+        "revenue": 145.78,
+        "orders": 23
+      },
+      {
+        "hour": 13,
+        "revenue": 92.32,
+        "orders": 14
+      },
+      {
+        "hour": 14,
+        "revenue": 49.41,
+        "orders": 12
+      },
+      {
+        "hour": 15,
+        "revenue": 48.95,
+        "orders": 9
+      },
+      {
+        "hour": 16,
+        "revenue": 28.41,
+        "orders": 8
+      },
+      {
+        "hour": 17,
+        "revenue": 25.34,
+        "orders": 7
+      },
+      {
+        "hour": 18,
+        "revenue": 31.34,
+        "orders": 7
+      },
+      {
+        "hour": 19,
+        "revenue": 31.23,
+        "orders": 7
+      },
+      {
+        "hour": 20,
+        "revenue": 16.32,
+        "orders": 4
+      },
+      {
+        "hour": 21,
+        "revenue": 9.41,
+        "orders": 2
+      }
+    ],
+    "items": [
+      {
+        "name": "Latte",
+        "category": "Drinks",
+        "qty": 24,
+        "revenue": 120
+      },
+      {
+        "name": "Drip Coffee",
+        "category": "Drinks",
+        "qty": 18,
+        "revenue": 45
+      },
+      {
+        "name": "Espresso",
+        "category": "Drinks",
+        "qty": 15,
+        "revenue": 52.5
+      },
+      {
+        "name": "Cappuccino",
+        "category": "Drinks",
+        "qty": 14,
+        "revenue": 66.5
+      },
+      {
+        "name": "Cold Brew",
+        "category": "Drinks",
+        "qty": 10,
+        "revenue": 45
+      },
+      {
+        "name": "Mocha",
+        "category": "Drinks",
+        "qty": 9,
+        "revenue": 49.5
+      },
+      {
+        "name": "Matcha Latte",
+        "category": "Drinks",
+        "qty": 6,
+        "revenue": 33
+      },
+      {
+        "name": "Green Smoothie",
+        "category": "Drinks",
+        "qty": 4,
+        "revenue": 24
+      },
+      {
+        "name": "Croissant",
+        "category": "Pastries",
+        "qty": 19,
+        "revenue": 71.25
+      },
+      {
+        "name": "Blueberry Muffin",
+        "category": "Pastries",
+        "qty": 10,
+        "revenue": 35
+      },
+      {
+        "name": "Banana Bread",
+        "category": "Pastries",
+        "qty": 5,
+        "revenue": 20
+      },
+      {
+        "name": "Avocado Toast",
+        "category": "Food",
+        "qty": 10,
+        "revenue": 85
+      },
+      {
+        "name": "Breakfast Burrito",
+        "category": "Food",
+        "qty": 8,
+        "revenue": 72
+      },
+      {
+        "name": "Bagel & Cream Cheese",
+        "category": "Food",
+        "qty": 4,
+        "revenue": 18
+      },
+      {
+        "name": "Seasonal Soup",
+        "category": "Food",
+        "qty": 4,
+        "revenue": 26
+      }
+    ]
+  },
+  {
+    "date": "2026-01-25",
+    "day_of_week": "Sun",
+    "total_revenue": 905.71,
+    "order_count": 162,
+    "avg_order_value": 5.59,
+    "hourly": [
+      {
+        "hour": 6,
+        "revenue": 4.09,
+        "orders": 1
+      },
+      {
+        "hour": 7,
+        "revenue": 27.45,
+        "orders": 6
+      },
+      {
+        "hour": 8,
+        "revenue": 92.46,
+        "orders": 19
+      },
+      {
+        "hour": 9,
+        "revenue": 111.35,
+        "orders": 19
+      },
+      {
+        "hour": 10,
+        "revenue": 56.1,
+        "orders": 13
+      },
+      {
+        "hour": 11,
+        "revenue": 139.8,
+        "orders": 18
+      },
+      {
+        "hour": 12,
+        "revenue": 149.52,
+        "orders": 22
+      },
+      {
+        "hour": 13,
+        "revenue": 91.9,
+        "orders": 14
+      },
+      {
+        "hour": 14,
+        "revenue": 51.88,
+        "orders": 11
+      },
+      {
+        "hour": 15,
+        "revenue": 43.23,
+        "orders": 9
+      },
+      {
+        "hour": 16,
+        "revenue": 32.9,
+        "orders": 7
+      },
+      {
+        "hour": 17,
+        "revenue": 31.78,
+        "orders": 8
+      },
+      {
+        "hour": 18,
+        "revenue": 30.88,
+        "orders": 6
+      },
+      {
+        "hour": 19,
+        "revenue": 21.29,
+        "orders": 5
+      },
+      {
+        "hour": 20,
+        "revenue": 10.98,
+        "orders": 2
+      },
+      {
+        "hour": 21,
+        "revenue": 10.1,
+        "orders": 2
+      }
+    ],
+    "items": [
+      {
+        "name": "Latte",
+        "category": "Drinks",
+        "qty": 28,
+        "revenue": 140
+      },
+      {
+        "name": "Drip Coffee",
+        "category": "Drinks",
+        "qty": 18,
+        "revenue": 45
+      },
+      {
+        "name": "Espresso",
+        "category": "Drinks",
+        "qty": 15,
+        "revenue": 52.5
+      },
+      {
+        "name": "Cappuccino",
+        "category": "Drinks",
+        "qty": 11,
+        "revenue": 52.25
+      },
+      {
+        "name": "Cold Brew",
+        "category": "Drinks",
+        "qty": 12,
+        "revenue": 54
+      },
+      {
+        "name": "Mocha",
+        "category": "Drinks",
+        "qty": 9,
+        "revenue": 49.5
+      },
+      {
+        "name": "Matcha Latte",
+        "category": "Drinks",
+        "qty": 7,
+        "revenue": 38.5
+      },
+      {
+        "name": "Green Smoothie",
+        "category": "Drinks",
+        "qty": 5,
+        "revenue": 30
+      },
+      {
+        "name": "Croissant",
+        "category": "Pastries",
+        "qty": 11,
+        "revenue": 41.25
+      },
+      {
+        "name": "Blueberry Muffin",
+        "category": "Pastries",
+        "qty": 7,
+        "revenue": 24.5
+      },
+      {
+        "name": "Banana Bread",
+        "category": "Pastries",
+        "qty": 6,
+        "revenue": 24
+      },
+      {
+        "name": "Avocado Toast",
+        "category": "Food",
+        "qty": 9,
+        "revenue": 76.5
+      },
+      {
+        "name": "Breakfast Burrito",
+        "category": "Food",
+        "qty": 9,
+        "revenue": 81
+      },
+      {
+        "name": "Bagel & Cream Cheese",
+        "category": "Food",
+        "qty": 6,
+        "revenue": 27
+      },
+      {
+        "name": "Seasonal Soup",
+        "category": "Food",
+        "qty": 5,
+        "revenue": 32.5
+      }
+    ]
+  },
+  {
+    "date": "2026-01-26",
+    "day_of_week": "Mon",
+    "total_revenue": 614.94,
+    "order_count": 111,
+    "avg_order_value": 5.54,
+    "hourly": [
+      {
+        "hour": 6,
+        "revenue": 13.22,
+        "orders": 3
+      },
+      {
+        "hour": 7,
+        "revenue": 38.4,
+        "orders": 6
+      },
+      {
+        "hour": 8,
+        "revenue": 100.81,
+        "orders": 18
+      },
+      {
+        "hour": 9,
+        "revenue": 70.04,
+        "orders": 12
+      },
+      {
+        "hour": 10,
+        "revenue": 34.6,
+        "orders": 9
+      },
+      {
+        "hour": 11,
+        "revenue": 49.85,
+        "orders": 8
+      },
+      {
+        "hour": 12,
+        "revenue": 79.1,
+        "orders": 12
+      },
+      {
+        "hour": 13,
+        "revenue": 74.72,
+        "orders": 9
+      },
+      {
+        "hour": 14,
+        "revenue": 30.11,
+        "orders": 7
+      },
+      {
+        "hour": 15,
+        "revenue": 26.29,
+        "orders": 6
+      },
+      {
+        "hour": 16,
+        "revenue": 25.83,
+        "orders": 5
+      },
+      {
+        "hour": 17,
+        "revenue": 25.15,
+        "orders": 5
+      },
+      {
+        "hour": 18,
+        "revenue": 19.29,
+        "orders": 4
+      },
+      {
+        "hour": 19,
+        "revenue": 14.42,
+        "orders": 4
+      },
+      {
+        "hour": 20,
+        "revenue": 7.69,
+        "orders": 2
+      },
+      {
+        "hour": 21,
+        "revenue": 5.42,
+        "orders": 1
+      }
+    ],
+    "items": [
+      {
+        "name": "Latte",
+        "category": "Drinks",
+        "qty": 21,
+        "revenue": 105
+      },
+      {
+        "name": "Drip Coffee",
+        "category": "Drinks",
+        "qty": 16,
+        "revenue": 40
+      },
+      {
+        "name": "Espresso",
+        "category": "Drinks",
+        "qty": 11,
+        "revenue": 38.5
+      },
+      {
+        "name": "Cappuccino",
+        "category": "Drinks",
+        "qty": 8,
+        "revenue": 38
+      },
+      {
+        "name": "Cold Brew",
+        "category": "Drinks",
+        "qty": 11,
+        "revenue": 49.5
+      },
+      {
+        "name": "Mocha",
+        "category": "Drinks",
+        "qty": 5,
+        "revenue": 27.5
+      },
+      {
+        "name": "Matcha Latte",
+        "category": "Drinks",
+        "qty": 6,
+        "revenue": 33
+      },
+      {
+        "name": "Green Smoothie",
+        "category": "Drinks",
+        "qty": 4,
+        "revenue": 24
+      },
+      {
+        "name": "Croissant",
+        "category": "Pastries",
+        "qty": 14,
+        "revenue": 52.5
+      },
+      {
+        "name": "Blueberry Muffin",
+        "category": "Pastries",
+        "qty": 5,
+        "revenue": 17.5
+      },
+      {
+        "name": "Banana Bread",
+        "category": "Pastries",
+        "qty": 4,
+        "revenue": 16
+      },
+      {
+        "name": "Avocado Toast",
+        "category": "Food",
+        "qty": 6,
+        "revenue": 51
+      },
+      {
+        "name": "Breakfast Burrito",
+        "category": "Food",
+        "qty": 7,
+        "revenue": 63
+      },
+      {
+        "name": "Bagel & Cream Cheese",
+        "category": "Food",
+        "qty": 3,
+        "revenue": 13.5
+      },
+      {
+        "name": "Seasonal Soup",
+        "category": "Food",
+        "qty": 3,
+        "revenue": 19.5
+      }
+    ]
+  },
+  {
+    "date": "2026-01-27",
+    "day_of_week": "Tue",
+    "total_revenue": 609.63,
+    "order_count": 107,
+    "avg_order_value": 5.7,
+    "hourly": [
+      {
+        "hour": 6,
+        "revenue": 10.49,
+        "orders": 2
+      },
+      {
+        "hour": 7,
+        "revenue": 44.05,
+        "orders": 8
+      },
+      {
+        "hour": 8,
+        "revenue": 68.35,
+        "orders": 13
+      },
+      {
+        "hour": 9,
+        "revenue": 79.7,
+        "orders": 13
+      },
+      {
+        "hour": 10,
+        "revenue": 43.36,
+        "orders": 8
+      },
+      {
+        "hour": 11,
+        "revenue": 66.01,
+        "orders": 10
+      },
+      {
+        "hour": 12,
+        "revenue": 80.37,
+        "orders": 12
+      },
+      {
+        "hour": 13,
+        "revenue": 53.1,
+        "orders": 7
+      },
+      {
+        "hour": 14,
+        "revenue": 36.22,
+        "orders": 7
+      },
+      {
+        "hour": 15,
+        "revenue": 28.96,
+        "orders": 6
+      },
+      {
+        "hour": 16,
+        "revenue": 25.85,
+        "orders": 5
+      },
+      {
+        "hour": 17,
+        "revenue": 23.4,
+        "orders": 5
+      },
+      {
+        "hour": 18,
+        "revenue": 17.28,
+        "orders": 4
+      },
+      {
+        "hour": 19,
+        "revenue": 16.93,
+        "orders": 4
+      },
+      {
+        "hour": 20,
+        "revenue": 10.39,
+        "orders": 2
+      },
+      {
+        "hour": 21,
+        "revenue": 5.17,
+        "orders": 1
+      }
+    ],
+    "items": [
+      {
+        "name": "Latte",
+        "category": "Drinks",
+        "qty": 18,
+        "revenue": 90
+      },
+      {
+        "name": "Drip Coffee",
+        "category": "Drinks",
+        "qty": 11,
+        "revenue": 27.5
+      },
+      {
+        "name": "Espresso",
+        "category": "Drinks",
+        "qty": 9,
+        "revenue": 31.5
+      },
+      {
+        "name": "Cappuccino",
+        "category": "Drinks",
+        "qty": 7,
+        "revenue": 33.25
+      },
+      {
+        "name": "Cold Brew",
+        "category": "Drinks",
+        "qty": 7,
+        "revenue": 31.5
+      },
+      {
+        "name": "Mocha",
+        "category": "Drinks",
+        "qty": 6,
+        "revenue": 33
+      },
+      {
+        "name": "Matcha Latte",
+        "category": "Drinks",
+        "qty": 4,
+        "revenue": 22
+      },
+      {
+        "name": "Green Smoothie",
+        "category": "Drinks",
+        "qty": 4,
+        "revenue": 24
+      },
+      {
+        "name": "Croissant",
+        "category": "Pastries",
+        "qty": 9,
+        "revenue": 33.75
+      },
+      {
+        "name": "Blueberry Muffin",
+        "category": "Pastries",
+        "qty": 8,
+        "revenue": 28
+      },
+      {
+        "name": "Banana Bread",
+        "category": "Pastries",
+        "qty": 5,
+        "revenue": 20
+      },
+      {
+        "name": "Avocado Toast",
+        "category": "Food",
+        "qty": 5,
+        "revenue": 42.5
+      },
+      {
+        "name": "Breakfast Burrito",
+        "category": "Food",
+        "qty": 7,
+        "revenue": 63
+      },
+      {
+        "name": "Bagel & Cream Cheese",
+        "category": "Food",
+        "qty": 3,
+        "revenue": 13.5
+      },
+      {
+        "name": "Seasonal Soup",
+        "category": "Food",
+        "qty": 4,
+        "revenue": 26
+      }
+    ]
+  },
+  {
+    "date": "2026-01-28",
+    "day_of_week": "Wed",
+    "total_revenue": 607.9,
+    "order_count": 113,
+    "avg_order_value": 5.38,
+    "hourly": [
+      {
+        "hour": 6,
+        "revenue": 12.47,
+        "orders": 3
+      },
+      {
+        "hour": 7,
+        "revenue": 36.28,
+        "orders": 7
+      },
+      {
+        "hour": 8,
+        "revenue": 93.21,
+        "orders": 19
+      },
+      {
+        "hour": 9,
+        "revenue": 65.19,
+        "orders": 12
+      },
+      {
+        "hour": 10,
+        "revenue": 37.23,
+        "orders": 9
+      },
+      {
+        "hour": 11,
+        "revenue": 52.73,
+        "orders": 8
+      },
+      {
+        "hour": 12,
+        "revenue": 80.99,
+        "orders": 10
+      },
+      {
+        "hour": 13,
+        "revenue": 55.03,
+        "orders": 9
+      },
+      {
+        "hour": 14,
+        "revenue": 28.68,
+        "orders": 6
+      },
+      {
+        "hour": 15,
+        "revenue": 35.82,
+        "orders": 7
+      },
+      {
+        "hour": 16,
+        "revenue": 21.77,
+        "orders": 5
+      },
+      {
+        "hour": 17,
+        "revenue": 26.24,
+        "orders": 5
+      },
+      {
+        "hour": 18,
+        "revenue": 23.46,
+        "orders": 5
+      },
+      {
+        "hour": 19,
+        "revenue": 24.65,
+        "orders": 5
+      },
+      {
+        "hour": 20,
+        "revenue": 9.62,
+        "orders": 2
+      },
+      {
+        "hour": 21,
+        "revenue": 4.53,
+        "orders": 1
+      }
+    ],
+    "items": [
+      {
+        "name": "Latte",
+        "category": "Drinks",
+        "qty": 20,
+        "revenue": 100
+      },
+      {
+        "name": "Drip Coffee",
+        "category": "Drinks",
+        "qty": 15,
+        "revenue": 37.5
+      },
+      {
+        "name": "Espresso",
+        "category": "Drinks",
+        "qty": 9,
+        "revenue": 31.5
+      },
+      {
+        "name": "Cappuccino",
+        "category": "Drinks",
+        "qty": 10,
+        "revenue": 47.5
+      },
+      {
+        "name": "Cold Brew",
+        "category": "Drinks",
+        "qty": 5,
+        "revenue": 22.5
+      },
+      {
+        "name": "Mocha",
+        "category": "Drinks",
+        "qty": 6,
+        "revenue": 33
+      },
+      {
+        "name": "Matcha Latte",
+        "category": "Drinks",
+        "qty": 4,
+        "revenue": 22
+      },
+      {
+        "name": "Green Smoothie",
+        "category": "Drinks",
+        "qty": 3,
+        "revenue": 18
+      },
+      {
+        "name": "Croissant",
+        "category": "Pastries",
+        "qty": 14,
+        "revenue": 52.5
+      },
+      {
+        "name": "Blueberry Muffin",
+        "category": "Pastries",
+        "qty": 7,
+        "revenue": 24.5
+      },
+      {
+        "name": "Banana Bread",
+        "category": "Pastries",
+        "qty": 4,
+        "revenue": 16
+      },
+      {
+        "name": "Avocado Toast",
+        "category": "Food",
+        "qty": 5,
+        "revenue": 42.5
+      },
+      {
+        "name": "Breakfast Burrito",
+        "category": "Food",
+        "qty": 5,
+        "revenue": 45
+      },
+      {
+        "name": "Bagel & Cream Cheese",
+        "category": "Food",
+        "qty": 3,
+        "revenue": 13.5
+      },
+      {
+        "name": "Seasonal Soup",
+        "category": "Food",
+        "qty": 3,
+        "revenue": 19.5
+      }
+    ]
+  },
+  {
+    "date": "2026-01-29",
+    "day_of_week": "Thu",
+    "total_revenue": 604.2,
+    "order_count": 103,
+    "avg_order_value": 5.87,
+    "hourly": [
+      {
+        "hour": 6,
+        "revenue": 8.07,
+        "orders": 2
+      },
+      {
+        "hour": 7,
+        "revenue": 50.19,
+        "orders": 8
+      },
+      {
+        "hour": 8,
+        "revenue": 97.07,
+        "orders": 15
+      },
+      {
+        "hour": 9,
+        "revenue": 76.74,
+        "orders": 12
+      },
+      {
+        "hour": 10,
+        "revenue": 40.38,
+        "orders": 8
+      },
+      {
+        "hour": 11,
+        "revenue": 75.42,
+        "orders": 9
+      },
+      {
+        "hour": 12,
+        "revenue": 56.97,
+        "orders": 9
+      },
+      {
+        "hour": 13,
+        "revenue": 57.78,
+        "orders": 9
+      },
+      {
+        "hour": 14,
+        "revenue": 18.4,
+        "orders": 5
+      },
+      {
+        "hour": 15,
+        "revenue": 29.92,
+        "orders": 6
+      },
+      {
+        "hour": 16,
+        "revenue": 25.02,
+        "orders": 5
+      },
+      {
+        "hour": 17,
+        "revenue": 28.2,
+        "orders": 6
+      },
+      {
+        "hour": 18,
+        "revenue": 14.71,
+        "orders": 3
+      },
+      {
+        "hour": 19,
+        "revenue": 13.99,
+        "orders": 3
+      },
+      {
+        "hour": 20,
+        "revenue": 7.19,
+        "orders": 2
+      },
+      {
+        "hour": 21,
+        "revenue": 4.15,
+        "orders": 1
+      }
+    ],
+    "items": [
+      {
+        "name": "Latte",
+        "category": "Drinks",
+        "qty": 17,
+        "revenue": 85
+      },
+      {
+        "name": "Drip Coffee",
+        "category": "Drinks",
+        "qty": 18,
+        "revenue": 45
+      },
+      {
+        "name": "Espresso",
+        "category": "Drinks",
+        "qty": 9,
+        "revenue": 31.5
+      },
+      {
+        "name": "Cappuccino",
+        "category": "Drinks",
+        "qty": 8,
+        "revenue": 38
+      },
+      {
+        "name": "Cold Brew",
+        "category": "Drinks",
+        "qty": 9,
+        "revenue": 40.5
+      },
+      {
+        "name": "Mocha",
+        "category": "Drinks",
+        "qty": 6,
+        "revenue": 33
+      },
+      {
+        "name": "Matcha Latte",
+        "category": "Drinks",
+        "qty": 4,
+        "revenue": 22
+      },
+      {
+        "name": "Green Smoothie",
+        "category": "Drinks",
+        "qty": 4,
+        "revenue": 24
+      },
+      {
+        "name": "Croissant",
+        "category": "Pastries",
+        "qty": 10,
+        "revenue": 37.5
+      },
+      {
+        "name": "Blueberry Muffin",
+        "category": "Pastries",
+        "qty": 5,
+        "revenue": 17.5
+      },
+      {
+        "name": "Banana Bread",
+        "category": "Pastries",
+        "qty": 5,
+        "revenue": 20
+      },
+      {
+        "name": "Avocado Toast",
+        "category": "Food",
+        "qty": 4,
+        "revenue": 34
+      },
+      {
+        "name": "Breakfast Burrito",
+        "category": "Food",
+        "qty": 5,
+        "revenue": 45
+      },
+      {
+        "name": "Bagel & Cream Cheese",
+        "category": "Food",
+        "qty": 2,
+        "revenue": 9
+      },
+      {
+        "name": "Seasonal Soup",
+        "category": "Food",
+        "qty": 3,
+        "revenue": 19.5
+      }
+    ]
+  },
+  {
+    "date": "2026-01-30",
+    "day_of_week": "Fri",
+    "total_revenue": 643.54,
+    "order_count": 120,
+    "avg_order_value": 5.36,
+    "hourly": [
+      {
+        "hour": 6,
+        "revenue": 15.46,
+        "orders": 3
+      },
+      {
+        "hour": 7,
+        "revenue": 47.18,
+        "orders": 9
+      },
+      {
+        "hour": 8,
+        "revenue": 91.24,
+        "orders": 17
+      },
+      {
+        "hour": 9,
+        "revenue": 86.13,
+        "orders": 15
+      },
+      {
+        "hour": 10,
+        "revenue": 28.99,
+        "orders": 7
+      },
+      {
+        "hour": 11,
+        "revenue": 59.77,
+        "orders": 9
+      },
+      {
+        "hour": 12,
+        "revenue": 79.48,
+        "orders": 11
+      },
+      {
+        "hour": 13,
+        "revenue": 70.32,
+        "orders": 11
+      },
+      {
+        "hour": 14,
+        "revenue": 23.47,
+        "orders": 6
+      },
+      {
+        "hour": 15,
+        "revenue": 23.25,
+        "orders": 6
+      },
+      {
+        "hour": 16,
+        "revenue": 24.51,
+        "orders": 7
+      },
+      {
+        "hour": 17,
+        "revenue": 28.67,
+        "orders": 6
+      },
+      {
+        "hour": 18,
+        "revenue": 20.58,
+        "orders": 4
+      },
+      {
+        "hour": 19,
+        "revenue": 24.79,
+        "orders": 5
+      },
+      {
+        "hour": 20,
+        "revenue": 15.42,
+        "orders": 3
+      },
+      {
+        "hour": 21,
+        "revenue": 4.28,
+        "orders": 1
+      }
+    ],
+    "items": [
+      {
+        "name": "Latte",
+        "category": "Drinks",
+        "qty": 15,
+        "revenue": 75
+      },
+      {
+        "name": "Drip Coffee",
+        "category": "Drinks",
+        "qty": 17,
+        "revenue": 42.5
+      },
+      {
+        "name": "Espresso",
+        "category": "Drinks",
+        "qty": 11,
+        "revenue": 38.5
+      },
+      {
+        "name": "Cappuccino",
+        "category": "Drinks",
+        "qty": 6,
+        "revenue": 28.5
+      },
+      {
+        "name": "Cold Brew",
+        "category": "Drinks",
+        "qty": 9,
+        "revenue": 40.5
+      },
+      {
+        "name": "Mocha",
+        "category": "Drinks",
+        "qty": 6,
+        "revenue": 33
+      },
+      {
+        "name": "Matcha Latte",
+        "category": "Drinks",
+        "qty": 4,
+        "revenue": 22
+      },
+      {
+        "name": "Green Smoothie",
+        "category": "Drinks",
+        "qty": 4,
+        "revenue": 24
+      },
+      {
+        "name": "Croissant",
+        "category": "Pastries",
+        "qty": 15,
+        "revenue": 56.25
+      },
+      {
+        "name": "Blueberry Muffin",
+        "category": "Pastries",
+        "qty": 7,
+        "revenue": 24.5
+      },
+      {
+        "name": "Banana Bread",
+        "category": "Pastries",
+        "qty": 5,
+        "revenue": 20
+      },
+      {
+        "name": "Avocado Toast",
+        "category": "Food",
+        "qty": 5,
+        "revenue": 42.5
+      },
+      {
+        "name": "Breakfast Burrito",
+        "category": "Food",
+        "qty": 6,
+        "revenue": 54
+      },
+      {
+        "name": "Bagel & Cream Cheese",
+        "category": "Food",
+        "qty": 5,
+        "revenue": 22.5
+      },
+      {
+        "name": "Seasonal Soup",
+        "category": "Food",
+        "qty": 4,
+        "revenue": 26
+      }
+    ]
+  },
+  {
+    "date": "2026-01-31",
+    "day_of_week": "Sat",
+    "total_revenue": 797.5,
+    "order_count": 151,
+    "avg_order_value": 5.28,
+    "hourly": [
+      {
+        "hour": 6,
+        "revenue": 10.53,
+        "orders": 2
+      },
+      {
+        "hour": 7,
+        "revenue": 22.62,
+        "orders": 5
+      },
+      {
+        "hour": 8,
+        "revenue": 103.99,
+        "orders": 22
+      },
+      {
+        "hour": 9,
+        "revenue": 85.82,
+        "orders": 17
+      },
+      {
+        "hour": 10,
+        "revenue": 43.02,
+        "orders": 11
+      },
+      {
+        "hour": 11,
+        "revenue": 111.52,
+        "orders": 15
+      },
+      {
+        "hour": 12,
+        "revenue": 92.17,
+        "orders": 15
+      },
+      {
+        "hour": 13,
+        "revenue": 106.61,
+        "orders": 15
+      },
+      {
+        "hour": 14,
+        "revenue": 54.75,
+        "orders": 12
+      },
+      {
+        "hour": 15,
+        "revenue": 26.7,
+        "orders": 7
+      },
+      {
+        "hour": 16,
+        "revenue": 33.23,
+        "orders": 8
+      },
+      {
+        "hour": 17,
+        "revenue": 40.29,
+        "orders": 8
+      },
+      {
+        "hour": 18,
+        "revenue": 24.67,
+        "orders": 5
+      },
+      {
+        "hour": 19,
+        "revenue": 24.78,
+        "orders": 5
+      },
+      {
+        "hour": 20,
+        "revenue": 12,
+        "orders": 3
+      },
+      {
+        "hour": 21,
+        "revenue": 4.8,
+        "orders": 1
+      }
+    ],
+    "items": [
+      {
+        "name": "Latte",
+        "category": "Drinks",
+        "qty": 20,
+        "revenue": 100
+      },
+      {
+        "name": "Drip Coffee",
+        "category": "Drinks",
+        "qty": 23,
+        "revenue": 57.5
+      },
+      {
+        "name": "Espresso",
+        "category": "Drinks",
+        "qty": 11,
+        "revenue": 38.5
+      },
+      {
+        "name": "Cappuccino",
+        "category": "Drinks",
+        "qty": 9,
+        "revenue": 42.75
+      },
+      {
+        "name": "Cold Brew",
+        "category": "Drinks",
+        "qty": 10,
+        "revenue": 45
+      },
+      {
+        "name": "Mocha",
+        "category": "Drinks",
+        "qty": 6,
+        "revenue": 33
+      },
+      {
+        "name": "Matcha Latte",
+        "category": "Drinks",
+        "qty": 5,
+        "revenue": 27.5
+      },
+      {
+        "name": "Green Smoothie",
+        "category": "Drinks",
+        "qty": 6,
+        "revenue": 36
+      },
+      {
+        "name": "Croissant",
+        "category": "Pastries",
+        "qty": 18,
+        "revenue": 67.5
+      },
+      {
+        "name": "Blueberry Muffin",
+        "category": "Pastries",
+        "qty": 10,
+        "revenue": 35
+      },
+      {
+        "name": "Banana Bread",
+        "category": "Pastries",
+        "qty": 5,
+        "revenue": 20
+      },
+      {
+        "name": "Avocado Toast",
+        "category": "Food",
+        "qty": 10,
+        "revenue": 85
+      },
+      {
+        "name": "Breakfast Burrito",
+        "category": "Food",
+        "qty": 6,
+        "revenue": 54
+      },
+      {
+        "name": "Bagel & Cream Cheese",
+        "category": "Food",
+        "qty": 3,
+        "revenue": 13.5
+      },
+      {
+        "name": "Seasonal Soup",
+        "category": "Food",
+        "qty": 3,
+        "revenue": 19.5
+      }
+    ]
+  },
+  {
+    "date": "2026-02-01",
+    "day_of_week": "Sun",
+    "total_revenue": 927.67,
+    "order_count": 162,
+    "avg_order_value": 5.73,
+    "hourly": [
+      {
+        "hour": 6,
+        "revenue": 9.01,
+        "orders": 2
+      },
+      {
+        "hour": 7,
+        "revenue": 30.35,
+        "orders": 5
+      },
+      {
+        "hour": 8,
+        "revenue": 140.26,
+        "orders": 22
+      },
+      {
+        "hour": 9,
+        "revenue": 78.46,
+        "orders": 16
+      },
+      {
+        "hour": 10,
+        "revenue": 50.75,
+        "orders": 13
+      },
+      {
+        "hour": 11,
+        "revenue": 116.8,
+        "orders": 14
+      },
+      {
+        "hour": 12,
+        "revenue": 147.72,
+        "orders": 19
+      },
+      {
+        "hour": 13,
+        "revenue": 118.57,
+        "orders": 17
+      },
+      {
+        "hour": 14,
+        "revenue": 55.38,
+        "orders": 13
+      },
+      {
+        "hour": 15,
+        "revenue": 34.04,
+        "orders": 8
+      },
+      {
+        "hour": 16,
+        "revenue": 32.45,
+        "orders": 6
+      },
+      {
+        "hour": 17,
+        "revenue": 34.49,
+        "orders": 9
+      },
+      {
+        "hour": 18,
+        "revenue": 21.9,
+        "orders": 6
+      },
+      {
+        "hour": 19,
+        "revenue": 30.9,
+        "orders": 6
+      },
+      {
+        "hour": 20,
+        "revenue": 19.05,
+        "orders": 4
+      },
+      {
+        "hour": 21,
+        "revenue": 7.54,
+        "orders": 2
+      }
+    ],
+    "items": [
+      {
+        "name": "Latte",
+        "category": "Drinks",
+        "qty": 33,
+        "revenue": 165
+      },
+      {
+        "name": "Drip Coffee",
+        "category": "Drinks",
+        "qty": 25,
+        "revenue": 62.5
+      },
+      {
+        "name": "Espresso",
+        "category": "Drinks",
+        "qty": 16,
+        "revenue": 56
+      },
+      {
+        "name": "Cappuccino",
+        "category": "Drinks",
+        "qty": 10,
+        "revenue": 47.5
+      },
+      {
+        "name": "Cold Brew",
+        "category": "Drinks",
+        "qty": 16,
+        "revenue": 72
+      },
+      {
+        "name": "Mocha",
+        "category": "Drinks",
+        "qty": 9,
+        "revenue": 49.5
+      },
+      {
+        "name": "Matcha Latte",
+        "category": "Drinks",
+        "qty": 7,
+        "revenue": 38.5
+      },
+      {
+        "name": "Green Smoothie",
+        "category": "Drinks",
+        "qty": 5,
+        "revenue": 30
+      },
+      {
+        "name": "Croissant",
+        "category": "Pastries",
+        "qty": 14,
+        "revenue": 52.5
+      },
+      {
+        "name": "Blueberry Muffin",
+        "category": "Pastries",
+        "qty": 9,
+        "revenue": 31.5
+      },
+      {
+        "name": "Banana Bread",
+        "category": "Pastries",
+        "qty": 5,
+        "revenue": 20
+      },
+      {
+        "name": "Avocado Toast",
+        "category": "Food",
+        "qty": 9,
+        "revenue": 76.5
+      },
+      {
+        "name": "Breakfast Burrito",
+        "category": "Food",
+        "qty": 9,
+        "revenue": 81
+      },
+      {
+        "name": "Bagel & Cream Cheese",
+        "category": "Food",
+        "qty": 5,
+        "revenue": 22.5
+      },
+      {
+        "name": "Seasonal Soup",
+        "category": "Food",
+        "qty": 4,
+        "revenue": 26
+      }
+    ]
+  },
+  {
+    "date": "2026-02-02",
+    "day_of_week": "Mon",
+    "total_revenue": 511.98,
+    "order_count": 93,
+    "avg_order_value": 5.51,
+    "hourly": [
+      {
+        "hour": 6,
+        "revenue": 9.64,
+        "orders": 2
+      },
+      {
+        "hour": 7,
+        "revenue": 29.46,
+        "orders": 6
+      },
+      {
+        "hour": 8,
+        "revenue": 72.51,
+        "orders": 12
+      },
+      {
+        "hour": 9,
+        "revenue": 63.45,
+        "orders": 10
+      },
+      {
+        "hour": 10,
+        "revenue": 29.61,
+        "orders": 7
+      },
+      {
+        "hour": 11,
+        "revenue": 39.8,
+        "orders": 6
+      },
+      {
+        "hour": 12,
+        "revenue": 73.12,
+        "orders": 10
+      },
+      {
+        "hour": 13,
+        "revenue": 58.75,
+        "orders": 8
+      },
+      {
+        "hour": 14,
+        "revenue": 22.6,
+        "orders": 5
+      },
+      {
+        "hour": 15,
+        "revenue": 18.64,
+        "orders": 5
+      },
+      {
+        "hour": 16,
+        "revenue": 16.48,
+        "orders": 4
+      },
+      {
+        "hour": 17,
+        "revenue": 21.88,
+        "orders": 5
+      },
+      {
+        "hour": 18,
+        "revenue": 17.86,
+        "orders": 5
+      },
+      {
+        "hour": 19,
+        "revenue": 22.93,
+        "orders": 5
+      },
+      {
+        "hour": 20,
+        "revenue": 9.87,
+        "orders": 2
+      },
+      {
+        "hour": 21,
+        "revenue": 5.38,
+        "orders": 1
+      }
+    ],
+    "items": [
+      {
+        "name": "Latte",
+        "category": "Drinks",
+        "qty": 11,
+        "revenue": 55
+      },
+      {
+        "name": "Drip Coffee",
+        "category": "Drinks",
+        "qty": 16,
+        "revenue": 40
+      },
+      {
+        "name": "Espresso",
+        "category": "Drinks",
+        "qty": 6,
+        "revenue": 21
+      },
+      {
+        "name": "Cappuccino",
+        "category": "Drinks",
+        "qty": 8,
+        "revenue": 38
+      },
+      {
+        "name": "Cold Brew",
+        "category": "Drinks",
+        "qty": 5,
+        "revenue": 22.5
+      },
+      {
+        "name": "Mocha",
+        "category": "Drinks",
+        "qty": 4,
+        "revenue": 22
+      },
+      {
+        "name": "Matcha Latte",
+        "category": "Drinks",
+        "qty": 4,
+        "revenue": 22
+      },
+      {
+        "name": "Green Smoothie",
+        "category": "Drinks",
+        "qty": 3,
+        "revenue": 18
+      },
+      {
+        "name": "Croissant",
+        "category": "Pastries",
+        "qty": 8,
+        "revenue": 30
+      },
+      {
+        "name": "Blueberry Muffin",
+        "category": "Pastries",
+        "qty": 5,
+        "revenue": 17.5
+      },
+      {
+        "name": "Banana Bread",
+        "category": "Pastries",
+        "qty": 5,
+        "revenue": 20
+      },
+      {
+        "name": "Avocado Toast",
+        "category": "Food",
+        "qty": 5,
+        "revenue": 42.5
+      },
+      {
+        "name": "Breakfast Burrito",
+        "category": "Food",
+        "qty": 5,
+        "revenue": 45
+      },
+      {
+        "name": "Bagel & Cream Cheese",
+        "category": "Food",
+        "qty": 3,
+        "revenue": 13.5
+      },
+      {
+        "name": "Seasonal Soup",
+        "category": "Food",
+        "qty": 3,
+        "revenue": 19.5
+      }
+    ]
+  },
+  {
+    "date": "2026-02-03",
+    "day_of_week": "Tue",
+    "total_revenue": 379.63,
+    "order_count": 72,
+    "avg_order_value": 5.27,
+    "hourly": [
+      {
+        "hour": 6,
+        "revenue": 5.39,
+        "orders": 1
+      },
+      {
+        "hour": 7,
+        "revenue": 38.69,
+        "orders": 6
+      },
+      {
+        "hour": 8,
+        "revenue": 51.14,
+        "orders": 11
+      },
+      {
+        "hour": 9,
+        "revenue": 32.39,
+        "orders": 7
+      },
+      {
+        "hour": 10,
+        "revenue": 23.23,
+        "orders": 6
+      },
+      {
+        "hour": 11,
+        "revenue": 37.56,
+        "orders": 5
+      },
+      {
+        "hour": 12,
+        "revenue": 43.03,
+        "orders": 6
+      },
+      {
+        "hour": 13,
+        "revenue": 36.08,
+        "orders": 5
+      },
+      {
+        "hour": 14,
+        "revenue": 15.28,
+        "orders": 4
+      },
+      {
+        "hour": 15,
+        "revenue": 23.54,
+        "orders": 5
+      },
+      {
+        "hour": 16,
+        "revenue": 16.3,
+        "orders": 3
+      },
+      {
+        "hour": 17,
+        "revenue": 17.07,
+        "orders": 4
+      },
+      {
+        "hour": 18,
+        "revenue": 10.74,
+        "orders": 3
+      },
+      {
+        "hour": 19,
+        "revenue": 13.67,
+        "orders": 3
+      },
+      {
+        "hour": 20,
+        "revenue": 10.41,
+        "orders": 2
+      },
+      {
+        "hour": 21,
+        "revenue": 5.11,
+        "orders": 1
+      }
+    ],
+    "items": [
+      {
+        "name": "Latte",
+        "category": "Drinks",
+        "qty": 14,
+        "revenue": 70
+      },
+      {
+        "name": "Drip Coffee",
+        "category": "Drinks",
+        "qty": 8,
+        "revenue": 20
+      },
+      {
+        "name": "Espresso",
+        "category": "Drinks",
+        "qty": 7,
+        "revenue": 24.5
+      },
+      {
+        "name": "Cappuccino",
+        "category": "Drinks",
+        "qty": 5,
+        "revenue": 23.75
+      },
+      {
+        "name": "Cold Brew",
+        "category": "Drinks",
+        "qty": 3,
+        "revenue": 13.5
+      },
+      {
+        "name": "Mocha",
+        "category": "Drinks",
+        "qty": 5,
+        "revenue": 27.5
+      },
+      {
+        "name": "Matcha Latte",
+        "category": "Drinks",
+        "qty": 4,
+        "revenue": 22
+      },
+      {
+        "name": "Green Smoothie",
+        "category": "Drinks",
+        "qty": 2,
+        "revenue": 12
+      },
+      {
+        "name": "Croissant",
+        "category": "Pastries",
+        "qty": 7,
+        "revenue": 26.25
+      },
+      {
+        "name": "Blueberry Muffin",
+        "category": "Pastries",
+        "qty": 3,
+        "revenue": 10.5
+      },
+      {
+        "name": "Banana Bread",
+        "category": "Pastries",
+        "qty": 2,
+        "revenue": 8
+      },
+      {
+        "name": "Avocado Toast",
+        "category": "Food",
+        "qty": 4,
+        "revenue": 34
+      },
+      {
+        "name": "Breakfast Burrito",
+        "category": "Food",
+        "qty": 4,
+        "revenue": 36
+      },
+      {
+        "name": "Bagel & Cream Cheese",
+        "category": "Food",
+        "qty": 3,
+        "revenue": 13.5
+      },
+      {
+        "name": "Seasonal Soup",
+        "category": "Food",
+        "qty": 2,
+        "revenue": 13
+      }
+    ]
+  },
+  {
+    "date": "2026-02-04",
+    "day_of_week": "Wed",
+    "total_revenue": 561.78,
+    "order_count": 99,
+    "avg_order_value": 5.67,
+    "hourly": [
+      {
+        "hour": 6,
+        "revenue": 9.53,
+        "orders": 2
+      },
+      {
+        "hour": 7,
+        "revenue": 44.85,
+        "orders": 7
+      },
+      {
+        "hour": 8,
+        "revenue": 75.2,
+        "orders": 13
+      },
+      {
+        "hour": 9,
+        "revenue": 58.93,
+        "orders": 11
+      },
+      {
+        "hour": 10,
+        "revenue": 31,
+        "orders": 8
+      },
+      {
+        "hour": 11,
+        "revenue": 61.63,
+        "orders": 8
+      },
+      {
+        "hour": 12,
+        "revenue": 84.37,
+        "orders": 11
+      },
+      {
+        "hour": 13,
+        "revenue": 42.86,
+        "orders": 6
+      },
+      {
+        "hour": 14,
+        "revenue": 38.48,
+        "orders": 7
+      },
+      {
+        "hour": 15,
+        "revenue": 36.38,
+        "orders": 7
+      },
+      {
+        "hour": 16,
+        "revenue": 21.9,
+        "orders": 5
+      },
+      {
+        "hour": 17,
+        "revenue": 19.41,
+        "orders": 4
+      },
+      {
+        "hour": 18,
+        "revenue": 10.7,
+        "orders": 3
+      },
+      {
+        "hour": 19,
+        "revenue": 14.28,
+        "orders": 4
+      },
+      {
+        "hour": 20,
+        "revenue": 8.23,
+        "orders": 2
+      },
+      {
+        "hour": 21,
+        "revenue": 4.03,
+        "orders": 1
+      }
+    ],
+    "items": [
+      {
+        "name": "Latte",
+        "category": "Drinks",
+        "qty": 16,
+        "revenue": 80
+      },
+      {
+        "name": "Drip Coffee",
+        "category": "Drinks",
+        "qty": 16,
+        "revenue": 40
+      },
+      {
+        "name": "Espresso",
+        "category": "Drinks",
+        "qty": 6,
+        "revenue": 21
+      },
+      {
+        "name": "Cappuccino",
+        "category": "Drinks",
+        "qty": 5,
+        "revenue": 23.75
+      },
+      {
+        "name": "Cold Brew",
+        "category": "Drinks",
+        "qty": 9,
+        "revenue": 40.5
+      },
+      {
+        "name": "Mocha",
+        "category": "Drinks",
+        "qty": 5,
+        "revenue": 27.5
+      },
+      {
+        "name": "Matcha Latte",
+        "category": "Drinks",
+        "qty": 3,
+        "revenue": 16.5
+      },
+      {
+        "name": "Green Smoothie",
+        "category": "Drinks",
+        "qty": 2,
+        "revenue": 12
+      },
+      {
+        "name": "Croissant",
+        "category": "Pastries",
+        "qty": 11,
+        "revenue": 41.25
+      },
+      {
+        "name": "Blueberry Muffin",
+        "category": "Pastries",
+        "qty": 6,
+        "revenue": 21
+      },
+      {
+        "name": "Banana Bread",
+        "category": "Pastries",
+        "qty": 5,
+        "revenue": 20
+      },
+      {
+        "name": "Avocado Toast",
+        "category": "Food",
+        "qty": 6,
+        "revenue": 51
+      },
+      {
+        "name": "Breakfast Burrito",
+        "category": "Food",
+        "qty": 4,
+        "revenue": 36
+      },
+      {
+        "name": "Bagel & Cream Cheese",
+        "category": "Food",
+        "qty": 2,
+        "revenue": 9
+      },
+      {
+        "name": "Seasonal Soup",
+        "category": "Food",
+        "qty": 3,
+        "revenue": 19.5
+      }
+    ]
+  },
+  {
+    "date": "2026-02-05",
+    "day_of_week": "Thu",
+    "total_revenue": 620.24,
+    "order_count": 116,
+    "avg_order_value": 5.35,
+    "hourly": [
+      {
+        "hour": 6,
+        "revenue": 11.6,
+        "orders": 3
+      },
+      {
+        "hour": 7,
+        "revenue": 36.42,
+        "orders": 8
+      },
+      {
+        "hour": 8,
+        "revenue": 81.34,
+        "orders": 14
+      },
+      {
+        "hour": 9,
+        "revenue": 88.19,
+        "orders": 14
+      },
+      {
+        "hour": 10,
+        "revenue": 27.03,
+        "orders": 7
+      },
+      {
+        "hour": 11,
+        "revenue": 53.82,
+        "orders": 8
+      },
+      {
+        "hour": 12,
+        "revenue": 93.92,
+        "orders": 14
+      },
+      {
+        "hour": 13,
+        "revenue": 65.71,
+        "orders": 8
+      },
+      {
+        "hour": 14,
+        "revenue": 26.92,
+        "orders": 7
+      },
+      {
+        "hour": 15,
+        "revenue": 31.13,
+        "orders": 8
+      },
+      {
+        "hour": 16,
+        "revenue": 22.76,
+        "orders": 6
+      },
+      {
+        "hour": 17,
+        "revenue": 21.93,
+        "orders": 6
+      },
+      {
+        "hour": 18,
+        "revenue": 19.53,
+        "orders": 4
+      },
+      {
+        "hour": 19,
+        "revenue": 22.8,
+        "orders": 5
+      },
+      {
+        "hour": 20,
+        "revenue": 13.51,
+        "orders": 3
+      },
+      {
+        "hour": 21,
+        "revenue": 3.63,
+        "orders": 1
+      }
+    ],
+    "items": [
+      {
+        "name": "Latte",
+        "category": "Drinks",
+        "qty": 25,
+        "revenue": 125
+      },
+      {
+        "name": "Drip Coffee",
+        "category": "Drinks",
+        "qty": 17,
+        "revenue": 42.5
+      },
+      {
+        "name": "Espresso",
+        "category": "Drinks",
+        "qty": 12,
+        "revenue": 42
+      },
+      {
+        "name": "Cappuccino",
+        "category": "Drinks",
+        "qty": 9,
+        "revenue": 42.75
+      },
+      {
+        "name": "Cold Brew",
+        "category": "Drinks",
+        "qty": 10,
+        "revenue": 45
+      },
+      {
+        "name": "Mocha",
+        "category": "Drinks",
+        "qty": 7,
+        "revenue": 38.5
+      },
+      {
+        "name": "Matcha Latte",
+        "category": "Drinks",
+        "qty": 6,
+        "revenue": 33
+      },
+      {
+        "name": "Green Smoothie",
+        "category": "Drinks",
+        "qty": 4,
+        "revenue": 24
+      },
+      {
+        "name": "Croissant",
+        "category": "Pastries",
+        "qty": 9,
+        "revenue": 33.75
+      },
+      {
+        "name": "Blueberry Muffin",
+        "category": "Pastries",
+        "qty": 8,
+        "revenue": 28
+      },
+      {
+        "name": "Banana Bread",
+        "category": "Pastries",
+        "qty": 5,
+        "revenue": 20
+      },
+      {
+        "name": "Avocado Toast",
+        "category": "Food",
+        "qty": 7,
+        "revenue": 59.5
+      },
+      {
+        "name": "Breakfast Burrito",
+        "category": "Food",
+        "qty": 4,
+        "revenue": 36
+      },
+      {
+        "name": "Bagel & Cream Cheese",
+        "category": "Food",
+        "qty": 4,
+        "revenue": 18
+      },
+      {
+        "name": "Seasonal Soup",
+        "category": "Food",
+        "qty": 4,
+        "revenue": 26
+      }
+    ]
+  }
+]

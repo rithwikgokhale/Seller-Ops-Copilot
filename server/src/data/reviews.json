@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2026-01-08",
+    "source": "Google",
+    "rating": 5,
+    "snippet": "Best latte in the neighborhood! Cozy atmosphere.",
+    "sentiment": "positive"
+  },
+  {
+    "date": "2026-01-10",
+    "source": "Yelp",
+    "rating": 4,
+    "snippet": "Great pastries, friendly staff. A bit crowded on weekends.",
+    "sentiment": "positive"
+  },
+  {
+    "date": "2026-01-13",
+    "source": "Google",
+    "rating": 3,
+    "snippet": "Coffee is decent but the wait was too long during morning rush.",
+    "sentiment": "neutral"
+  },
+  {
+    "date": "2026-01-15",
+    "source": "Yelp",
+    "rating": 5,
+    "snippet": "The avocado toast is amazing. Will definitely come back!",
+    "sentiment": "positive"
+  },
+  {
+    "date": "2026-01-18",
+    "source": "Google",
+    "rating": 4,
+    "snippet": "Nice spot for remote work. Good WiFi and outlets.",
+    "sentiment": "positive"
+  },
+  {
+    "date": "2026-01-20",
+    "source": "Google",
+    "rating": 2,
+    "snippet": "Waited 15 minutes for a drip coffee. They need more staff in the morning.",
+    "sentiment": "negative"
+  },
+  {
+    "date": "2026-01-23",
+    "source": "Yelp",
+    "rating": 4,
+    "snippet": "Solid breakfast burrito. Wish they had more lunch options.",
+    "sentiment": "positive"
+  },
+  {
+    "date": "2026-01-26",
+    "source": "Google",
+    "rating": 5,
+    "snippet": "My go-to coffee shop. The matcha latte is perfection.",
+    "sentiment": "positive"
+  },
+  {
+    "date": "2026-01-29",
+    "source": "Yelp",
+    "rating": 4,
+    "snippet": "Consistently good quality. Fair prices for the area.",
+    "sentiment": "positive"
+  },
+  {
+    "date": "2026-02-01",
+    "source": "Google",
+    "rating": 5,
+    "snippet": "Stopped by after the half-marathon — hit the spot!",
+    "sentiment": "positive"
+  },
+  {
+    "date": "2026-02-03",
+    "source": "Yelp",
+    "rating": 3,
+    "snippet": "Ran out of croissants by 9 AM. Please stock more!",
+    "sentiment": "neutral"
+  },
+  {
+    "date": "2026-02-05",
+    "source": "Google",
+    "rating": 4,
+    "snippet": "Love the seasonal soup. Perfect for chilly days.",
+    "sentiment": "positive"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "item": "Espresso Beans",
+    "category": "Coffee",
+    "current_stock": 8,
+    "unit": "lbs",
+    "reorder_point": 10,
+    "daily_usage": 3.5,
+    "status": "low"
+  },
+  {
+    "item": "Whole Milk",
+    "category": "Dairy",
+    "current_stock": 12,
+    "unit": "gallons",
+    "reorder_point": 8,
+    "daily_usage": 5,
+    "status": "ok"
+  },
+  {
+    "item": "Oat Milk",
+    "category": "Dairy",
+    "current_stock": 3,
+    "unit": "gallons",
+    "reorder_point": 4,
+    "daily_usage": 2,
+    "status": "low"
+  },
+  {
+    "item": "Vanilla Syrup",
+    "category": "Syrups",
+    "current_stock": 2,
+    "unit": "bottles",
+    "reorder_point": 3,
+    "daily_usage": 0.5,
+    "status": "low"
+  },
+  {
+    "item": "Chocolate Syrup",
+    "category": "Syrups",
+    "current_stock": 4,
+    "unit": "bottles",
+    "reorder_point": 3,
+    "daily_usage": 0.3,
+    "status": "ok"
+  },
+  {
+    "item": "Matcha Powder",
+    "category": "Tea",
+    "current_stock": 1,
+    "unit": "lbs",
+    "reorder_point": 2,
+    "daily_usage": 0.3,
+    "status": "low"
+  },
+  {
+    "item": "Flour (AP)",
+    "category": "Baking",
+    "current_stock": 20,
+    "unit": "lbs",
+    "reorder_point": 15,
+    "daily_usage": 4,
+    "status": "ok"
+  },
+  {
+    "item": "Butter",
+    "category": "Dairy",
+    "current_stock": 8,
+    "unit": "lbs",
+    "reorder_point": 5,
+    "daily_usage": 2,
+    "status": "ok"
+  },
+  {
+    "item": "Eggs",
+    "category": "Baking",
+    "current_stock": 36,
+    "unit": "count",
+    "reorder_point": 24,
+    "daily_usage": 12,
+    "status": "ok"
+  },
+  {
+    "item": "Cream Cheese",
+    "category": "Dairy",
+    "current_stock": 5,
+    "unit": "lbs",
+    "reorder_point": 3,
+    "daily_usage": 1.5,
+    "status": "ok"
+  },
+  {
+    "item": "Avocados",
+    "category": "Produce",
+    "current_stock": 10,
+    "unit": "count",
+    "reorder_point": 8,
+    "daily_usage": 4,
+    "status": "ok"
+  },
+  {
+    "item": "Tortillas (10-in)",
+    "category": "Bread",
+    "current_stock": 25,
+    "unit": "count",
+    "reorder_point": 20,
+    "daily_usage": 8,
+    "status": "ok"
+  },
+  {
+    "item": "Sourdough Loaves",
+    "category": "Bread",
+    "current_stock": 6,
+    "unit": "loaves",
+    "reorder_point": 5,
+    "daily_usage": 3,
+    "status": "ok"
+  },
+  {
+    "item": "Paper Cups (12 oz)",
+    "category": "Supplies",
+    "current_stock": 150,
+    "unit": "count",
+    "reorder_point": 100,
+    "daily_usage": 60,
+    "status": "ok"
+  },
+  {
+    "item": "Paper Cups (16 oz)",
+    "category": "Supplies",
+    "current_stock": 80,
+    "unit": "count",
+    "reorder_point": 100,
+    "daily_usage": 45,
+    "status": "low"
+  }
+]

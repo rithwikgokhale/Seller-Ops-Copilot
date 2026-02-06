@@ -1,0 +1,1180 @@
+[
+  {
+    "date": "2026-01-07",
+    "day_of_week": "Wed",
+    "shifts": [
+      {
+        "shift": "morning",
+        "start": "06:00",
+        "end": "12:00",
+        "staff_count": 3,
+        "roles": [
+          "barista",
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "afternoon",
+        "start": "12:00",
+        "end": "18:00",
+        "staff_count": 2,
+        "roles": [
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "evening",
+        "start": "18:00",
+        "end": "21:00",
+        "staff_count": 1,
+        "roles": [
+          "barista"
+        ]
+      }
+    ],
+    "peak_hour": 9,
+    "peak_hour_orders": 30,
+    "total_labor_hours": 33
+  },
+  {
+    "date": "2026-01-08",
+    "day_of_week": "Thu",
+    "shifts": [
+      {
+        "shift": "morning",
+        "start": "06:00",
+        "end": "12:00",
+        "staff_count": 3,
+        "roles": [
+          "barista",
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "afternoon",
+        "start": "12:00",
+        "end": "18:00",
+        "staff_count": 2,
+        "roles": [
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "evening",
+        "start": "18:00",
+        "end": "21:00",
+        "staff_count": 1,
+        "roles": [
+          "barista"
+        ]
+      }
+    ],
+    "peak_hour": 9,
+    "peak_hour_orders": 30,
+    "total_labor_hours": 33
+  },
+  {
+    "date": "2026-01-09",
+    "day_of_week": "Fri",
+    "shifts": [
+      {
+        "shift": "morning",
+        "start": "06:00",
+        "end": "12:00",
+        "staff_count": 3,
+        "roles": [
+          "barista",
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "afternoon",
+        "start": "12:00",
+        "end": "18:00",
+        "staff_count": 2,
+        "roles": [
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "evening",
+        "start": "18:00",
+        "end": "21:00",
+        "staff_count": 1,
+        "roles": [
+          "barista"
+        ]
+      }
+    ],
+    "peak_hour": 7,
+    "peak_hour_orders": 31,
+    "total_labor_hours": 33
+  },
+  {
+    "date": "2026-01-10",
+    "day_of_week": "Sat",
+    "shifts": [
+      {
+        "shift": "morning",
+        "start": "06:00",
+        "end": "12:00",
+        "staff_count": 4,
+        "roles": [
+          "barista",
+          "barista",
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "afternoon",
+        "start": "12:00",
+        "end": "18:00",
+        "staff_count": 2,
+        "roles": [
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "evening",
+        "start": "18:00",
+        "end": "21:00",
+        "staff_count": 1,
+        "roles": [
+          "barista"
+        ]
+      }
+    ],
+    "peak_hour": 9,
+    "peak_hour_orders": 20,
+    "total_labor_hours": 39
+  },
+  {
+    "date": "2026-01-11",
+    "day_of_week": "Sun",
+    "shifts": [
+      {
+        "shift": "morning",
+        "start": "06:00",
+        "end": "12:00",
+        "staff_count": 4,
+        "roles": [
+          "barista",
+          "barista",
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "afternoon",
+        "start": "12:00",
+        "end": "18:00",
+        "staff_count": 2,
+        "roles": [
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "evening",
+        "start": "18:00",
+        "end": "21:00",
+        "staff_count": 1,
+        "roles": [
+          "barista"
+        ]
+      }
+    ],
+    "peak_hour": 10,
+    "peak_hour_orders": 22,
+    "total_labor_hours": 39
+  },
+  {
+    "date": "2026-01-12",
+    "day_of_week": "Mon",
+    "shifts": [
+      {
+        "shift": "morning",
+        "start": "06:00",
+        "end": "12:00",
+        "staff_count": 3,
+        "roles": [
+          "barista",
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "afternoon",
+        "start": "12:00",
+        "end": "18:00",
+        "staff_count": 2,
+        "roles": [
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "evening",
+        "start": "18:00",
+        "end": "21:00",
+        "staff_count": 1,
+        "roles": [
+          "barista"
+        ]
+      }
+    ],
+    "peak_hour": 7,
+    "peak_hour_orders": 24,
+    "total_labor_hours": 33
+  },
+  {
+    "date": "2026-01-13",
+    "day_of_week": "Tue",
+    "shifts": [
+      {
+        "shift": "morning",
+        "start": "06:00",
+        "end": "12:00",
+        "staff_count": 3,
+        "roles": [
+          "barista",
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "afternoon",
+        "start": "12:00",
+        "end": "18:00",
+        "staff_count": 2,
+        "roles": [
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "evening",
+        "start": "18:00",
+        "end": "21:00",
+        "staff_count": 1,
+        "roles": [
+          "barista"
+        ]
+      }
+    ],
+    "peak_hour": 8,
+    "peak_hour_orders": 33,
+    "total_labor_hours": 33
+  },
+  {
+    "date": "2026-01-14",
+    "day_of_week": "Wed",
+    "shifts": [
+      {
+        "shift": "morning",
+        "start": "06:00",
+        "end": "12:00",
+        "staff_count": 3,
+        "roles": [
+          "barista",
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "afternoon",
+        "start": "12:00",
+        "end": "18:00",
+        "staff_count": 2,
+        "roles": [
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "evening",
+        "start": "18:00",
+        "end": "21:00",
+        "staff_count": 1,
+        "roles": [
+          "barista"
+        ]
+      }
+    ],
+    "peak_hour": 7,
+    "peak_hour_orders": 26,
+    "total_labor_hours": 33
+  },
+  {
+    "date": "2026-01-15",
+    "day_of_week": "Thu",
+    "shifts": [
+      {
+        "shift": "morning",
+        "start": "06:00",
+        "end": "12:00",
+        "staff_count": 3,
+        "roles": [
+          "barista",
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "afternoon",
+        "start": "12:00",
+        "end": "18:00",
+        "staff_count": 2,
+        "roles": [
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "evening",
+        "start": "18:00",
+        "end": "21:00",
+        "staff_count": 1,
+        "roles": [
+          "barista"
+        ]
+      }
+    ],
+    "peak_hour": 7,
+    "peak_hour_orders": 32,
+    "total_labor_hours": 33
+  },
+  {
+    "date": "2026-01-16",
+    "day_of_week": "Fri",
+    "shifts": [
+      {
+        "shift": "morning",
+        "start": "06:00",
+        "end": "12:00",
+        "staff_count": 3,
+        "roles": [
+          "barista",
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "afternoon",
+        "start": "12:00",
+        "end": "18:00",
+        "staff_count": 2,
+        "roles": [
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "evening",
+        "start": "18:00",
+        "end": "21:00",
+        "staff_count": 1,
+        "roles": [
+          "barista"
+        ]
+      }
+    ],
+    "peak_hour": 9,
+    "peak_hour_orders": 35,
+    "total_labor_hours": 33
+  },
+  {
+    "date": "2026-01-17",
+    "day_of_week": "Sat",
+    "shifts": [
+      {
+        "shift": "morning",
+        "start": "06:00",
+        "end": "12:00",
+        "staff_count": 4,
+        "roles": [
+          "barista",
+          "barista",
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "afternoon",
+        "start": "12:00",
+        "end": "18:00",
+        "staff_count": 2,
+        "roles": [
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "evening",
+        "start": "18:00",
+        "end": "21:00",
+        "staff_count": 1,
+        "roles": [
+          "barista"
+        ]
+      }
+    ],
+    "peak_hour": 9,
+    "peak_hour_orders": 21,
+    "total_labor_hours": 39
+  },
+  {
+    "date": "2026-01-18",
+    "day_of_week": "Sun",
+    "shifts": [
+      {
+        "shift": "morning",
+        "start": "06:00",
+        "end": "12:00",
+        "staff_count": 4,
+        "roles": [
+          "barista",
+          "barista",
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "afternoon",
+        "start": "12:00",
+        "end": "18:00",
+        "staff_count": 2,
+        "roles": [
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "evening",
+        "start": "18:00",
+        "end": "21:00",
+        "staff_count": 1,
+        "roles": [
+          "barista"
+        ]
+      }
+    ],
+    "peak_hour": 9,
+    "peak_hour_orders": 25,
+    "total_labor_hours": 39
+  },
+  {
+    "date": "2026-01-19",
+    "day_of_week": "Mon",
+    "shifts": [
+      {
+        "shift": "morning",
+        "start": "06:00",
+        "end": "12:00",
+        "staff_count": 3,
+        "roles": [
+          "barista",
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "afternoon",
+        "start": "12:00",
+        "end": "18:00",
+        "staff_count": 2,
+        "roles": [
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "evening",
+        "start": "18:00",
+        "end": "21:00",
+        "staff_count": 1,
+        "roles": [
+          "barista"
+        ]
+      }
+    ],
+    "peak_hour": 9,
+    "peak_hour_orders": 31,
+    "total_labor_hours": 33
+  },
+  {
+    "date": "2026-01-20",
+    "day_of_week": "Tue",
+    "shifts": [
+      {
+        "shift": "morning",
+        "start": "06:00",
+        "end": "12:00",
+        "staff_count": 3,
+        "roles": [
+          "barista",
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "afternoon",
+        "start": "12:00",
+        "end": "18:00",
+        "staff_count": 2,
+        "roles": [
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "evening",
+        "start": "18:00",
+        "end": "21:00",
+        "staff_count": 1,
+        "roles": [
+          "barista"
+        ]
+      }
+    ],
+    "peak_hour": 8,
+    "peak_hour_orders": 28,
+    "total_labor_hours": 33
+  },
+  {
+    "date": "2026-01-21",
+    "day_of_week": "Wed",
+    "shifts": [
+      {
+        "shift": "morning",
+        "start": "06:00",
+        "end": "12:00",
+        "staff_count": 3,
+        "roles": [
+          "barista",
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "afternoon",
+        "start": "12:00",
+        "end": "18:00",
+        "staff_count": 2,
+        "roles": [
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "evening",
+        "start": "18:00",
+        "end": "21:00",
+        "staff_count": 1,
+        "roles": [
+          "barista"
+        ]
+      }
+    ],
+    "peak_hour": 7,
+    "peak_hour_orders": 33,
+    "total_labor_hours": 33
+  },
+  {
+    "date": "2026-01-22",
+    "day_of_week": "Thu",
+    "shifts": [
+      {
+        "shift": "morning",
+        "start": "06:00",
+        "end": "12:00",
+        "staff_count": 3,
+        "roles": [
+          "barista",
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "afternoon",
+        "start": "12:00",
+        "end": "18:00",
+        "staff_count": 2,
+        "roles": [
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "evening",
+        "start": "18:00",
+        "end": "21:00",
+        "staff_count": 1,
+        "roles": [
+          "barista"
+        ]
+      }
+    ],
+    "peak_hour": 8,
+    "peak_hour_orders": 28,
+    "total_labor_hours": 33
+  },
+  {
+    "date": "2026-01-23",
+    "day_of_week": "Fri",
+    "shifts": [
+      {
+        "shift": "morning",
+        "start": "06:00",
+        "end": "12:00",
+        "staff_count": 3,
+        "roles": [
+          "barista",
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "afternoon",
+        "start": "12:00",
+        "end": "18:00",
+        "staff_count": 2,
+        "roles": [
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "evening",
+        "start": "18:00",
+        "end": "21:00",
+        "staff_count": 1,
+        "roles": [
+          "barista"
+        ]
+      }
+    ],
+    "peak_hour": 7,
+    "peak_hour_orders": 32,
+    "total_labor_hours": 33
+  },
+  {
+    "date": "2026-01-24",
+    "day_of_week": "Sat",
+    "shifts": [
+      {
+        "shift": "morning",
+        "start": "06:00",
+        "end": "12:00",
+        "staff_count": 4,
+        "roles": [
+          "barista",
+          "barista",
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "afternoon",
+        "start": "12:00",
+        "end": "18:00",
+        "staff_count": 2,
+        "roles": [
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "evening",
+        "start": "18:00",
+        "end": "21:00",
+        "staff_count": 1,
+        "roles": [
+          "barista"
+        ]
+      }
+    ],
+    "peak_hour": 11,
+    "peak_hour_orders": 24,
+    "total_labor_hours": 39
+  },
+  {
+    "date": "2026-01-25",
+    "day_of_week": "Sun",
+    "shifts": [
+      {
+        "shift": "morning",
+        "start": "06:00",
+        "end": "12:00",
+        "staff_count": 4,
+        "roles": [
+          "barista",
+          "barista",
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "afternoon",
+        "start": "12:00",
+        "end": "18:00",
+        "staff_count": 2,
+        "roles": [
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "evening",
+        "start": "18:00",
+        "end": "21:00",
+        "staff_count": 1,
+        "roles": [
+          "barista"
+        ]
+      }
+    ],
+    "peak_hour": 10,
+    "peak_hour_orders": 21,
+    "total_labor_hours": 39
+  },
+  {
+    "date": "2026-01-26",
+    "day_of_week": "Mon",
+    "shifts": [
+      {
+        "shift": "morning",
+        "start": "06:00",
+        "end": "12:00",
+        "staff_count": 3,
+        "roles": [
+          "barista",
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "afternoon",
+        "start": "12:00",
+        "end": "18:00",
+        "staff_count": 2,
+        "roles": [
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "evening",
+        "start": "18:00",
+        "end": "21:00",
+        "staff_count": 1,
+        "roles": [
+          "barista"
+        ]
+      }
+    ],
+    "peak_hour": 9,
+    "peak_hour_orders": 27,
+    "total_labor_hours": 33
+  },
+  {
+    "date": "2026-01-27",
+    "day_of_week": "Tue",
+    "shifts": [
+      {
+        "shift": "morning",
+        "start": "06:00",
+        "end": "12:00",
+        "staff_count": 3,
+        "roles": [
+          "barista",
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "afternoon",
+        "start": "12:00",
+        "end": "18:00",
+        "staff_count": 2,
+        "roles": [
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "evening",
+        "start": "18:00",
+        "end": "21:00",
+        "staff_count": 1,
+        "roles": [
+          "barista"
+        ]
+      }
+    ],
+    "peak_hour": 8,
+    "peak_hour_orders": 22,
+    "total_labor_hours": 33
+  },
+  {
+    "date": "2026-01-28",
+    "day_of_week": "Wed",
+    "shifts": [
+      {
+        "shift": "morning",
+        "start": "06:00",
+        "end": "12:00",
+        "staff_count": 3,
+        "roles": [
+          "barista",
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "afternoon",
+        "start": "12:00",
+        "end": "18:00",
+        "staff_count": 2,
+        "roles": [
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "evening",
+        "start": "18:00",
+        "end": "21:00",
+        "staff_count": 1,
+        "roles": [
+          "barista"
+        ]
+      }
+    ],
+    "peak_hour": 9,
+    "peak_hour_orders": 29,
+    "total_labor_hours": 33
+  },
+  {
+    "date": "2026-01-29",
+    "day_of_week": "Thu",
+    "shifts": [
+      {
+        "shift": "morning",
+        "start": "06:00",
+        "end": "12:00",
+        "staff_count": 3,
+        "roles": [
+          "barista",
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "afternoon",
+        "start": "12:00",
+        "end": "18:00",
+        "staff_count": 2,
+        "roles": [
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "evening",
+        "start": "18:00",
+        "end": "21:00",
+        "staff_count": 1,
+        "roles": [
+          "barista"
+        ]
+      }
+    ],
+    "peak_hour": 7,
+    "peak_hour_orders": 33,
+    "total_labor_hours": 33
+  },
+  {
+    "date": "2026-01-30",
+    "day_of_week": "Fri",
+    "shifts": [
+      {
+        "shift": "morning",
+        "start": "06:00",
+        "end": "12:00",
+        "staff_count": 3,
+        "roles": [
+          "barista",
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "afternoon",
+        "start": "12:00",
+        "end": "18:00",
+        "staff_count": 2,
+        "roles": [
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "evening",
+        "start": "18:00",
+        "end": "21:00",
+        "staff_count": 1,
+        "roles": [
+          "barista"
+        ]
+      }
+    ],
+    "peak_hour": 8,
+    "peak_hour_orders": 22,
+    "total_labor_hours": 33
+  },
+  {
+    "date": "2026-01-31",
+    "day_of_week": "Sat",
+    "shifts": [
+      {
+        "shift": "morning",
+        "start": "06:00",
+        "end": "12:00",
+        "staff_count": 4,
+        "roles": [
+          "barista",
+          "barista",
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "afternoon",
+        "start": "12:00",
+        "end": "18:00",
+        "staff_count": 2,
+        "roles": [
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "evening",
+        "start": "18:00",
+        "end": "21:00",
+        "staff_count": 1,
+        "roles": [
+          "barista"
+        ]
+      }
+    ],
+    "peak_hour": 9,
+    "peak_hour_orders": 25,
+    "total_labor_hours": 39
+  },
+  {
+    "date": "2026-02-01",
+    "day_of_week": "Sun",
+    "shifts": [
+      {
+        "shift": "morning",
+        "start": "06:00",
+        "end": "12:00",
+        "staff_count": 4,
+        "roles": [
+          "barista",
+          "barista",
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "afternoon",
+        "start": "12:00",
+        "end": "18:00",
+        "staff_count": 2,
+        "roles": [
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "evening",
+        "start": "18:00",
+        "end": "21:00",
+        "staff_count": 1,
+        "roles": [
+          "barista"
+        ]
+      }
+    ],
+    "peak_hour": 10,
+    "peak_hour_orders": 22,
+    "total_labor_hours": 39
+  },
+  {
+    "date": "2026-02-02",
+    "day_of_week": "Mon",
+    "shifts": [
+      {
+        "shift": "morning",
+        "start": "06:00",
+        "end": "12:00",
+        "staff_count": 3,
+        "roles": [
+          "barista",
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "afternoon",
+        "start": "12:00",
+        "end": "18:00",
+        "staff_count": 2,
+        "roles": [
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "evening",
+        "start": "18:00",
+        "end": "21:00",
+        "staff_count": 1,
+        "roles": [
+          "barista"
+        ]
+      }
+    ],
+    "peak_hour": 9,
+    "peak_hour_orders": 25,
+    "total_labor_hours": 33
+  },
+  {
+    "date": "2026-02-03",
+    "day_of_week": "Tue",
+    "shifts": [
+      {
+        "shift": "morning",
+        "start": "06:00",
+        "end": "12:00",
+        "staff_count": 3,
+        "roles": [
+          "barista",
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "afternoon",
+        "start": "12:00",
+        "end": "18:00",
+        "staff_count": 2,
+        "roles": [
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "evening",
+        "start": "18:00",
+        "end": "21:00",
+        "staff_count": 1,
+        "roles": [
+          "barista"
+        ]
+      }
+    ],
+    "peak_hour": 7,
+    "peak_hour_orders": 32,
+    "total_labor_hours": 33
+  },
+  {
+    "date": "2026-02-04",
+    "day_of_week": "Wed",
+    "shifts": [
+      {
+        "shift": "morning",
+        "start": "06:00",
+        "end": "12:00",
+        "staff_count": 3,
+        "roles": [
+          "barista",
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "afternoon",
+        "start": "12:00",
+        "end": "18:00",
+        "staff_count": 2,
+        "roles": [
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "evening",
+        "start": "18:00",
+        "end": "21:00",
+        "staff_count": 1,
+        "roles": [
+          "barista"
+        ]
+      }
+    ],
+    "peak_hour": 9,
+    "peak_hour_orders": 33,
+    "total_labor_hours": 33
+  },
+  {
+    "date": "2026-02-05",
+    "day_of_week": "Thu",
+    "shifts": [
+      {
+        "shift": "morning",
+        "start": "06:00",
+        "end": "12:00",
+        "staff_count": 3,
+        "roles": [
+          "barista",
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "afternoon",
+        "start": "12:00",
+        "end": "18:00",
+        "staff_count": 2,
+        "roles": [
+          "barista",
+          "cashier"
+        ]
+      },
+      {
+        "shift": "evening",
+        "start": "18:00",
+        "end": "21:00",
+        "staff_count": 1,
+        "roles": [
+          "barista"
+        ]
+      }
+    ],
+    "peak_hour": 8,
+    "peak_hour_orders": 31,
+    "total_labor_hours": 33
+  }
+]
