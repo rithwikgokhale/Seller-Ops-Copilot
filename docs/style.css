@@ -228,12 +228,12 @@ section:nth-child(even) {
   font-size: 3.25rem;
   max-width: 800px;
   margin: 0 auto;
-  color: var(--ink);
+  color: #0a0a0f;
 }
 
 .hero .subtitle {
   font-size: 1.2rem;
-  color: var(--ink-muted);
+  color: #374151;
   max-width: 600px;
   margin: 1.25rem auto 0;
   line-height: 1.6;
