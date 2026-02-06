@@ -1,0 +1,768 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Seller Ops Copilot – AI-Powered Insights for Small Business Sellers</title>
+  <meta name="description" content="Neighborhood-Aware Seller Ops Copilot: an AI-native insights and recommendations engine for small-business sellers, built for Block/Square's ecosystem." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<!-- ═══════════════════════════════════════
+     NAVIGATION
+     ═══════════════════════════════════════ -->
+<nav class="nav" id="nav">
+  <div class="nav-inner">
+    <a href="#" class="nav-logo">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3h18v18H3z"/><path d="M12 8v8"/><path d="M8 12h8"/></svg>
+      Seller Ops Copilot
+    </a>
+    <button class="nav-mobile-toggle" id="navToggle" aria-label="Toggle navigation">
+      <span></span><span></span><span></span>
+    </button>
+    <ul class="nav-links" id="navLinks">
+      <li><a href="#problem">Problem</a></li>
+      <li><a href="#solution">Solution</a></li>
+      <li><a href="#architecture">Architecture</a></li>
+      <li><a href="#ai-design">AI Design</a></li>
+      <li><a href="#business-value">Business Value</a></li>
+      <li><a href="#market">Market</a></li>
+      <li><a href="#roadmap">Roadmap</a></li>
+      <li><a href="#setup">Setup</a></li>
+      <li><a href="https://github.com/rithwikgokhale/Seller-Ops-Copilot" class="nav-cta">GitHub</a></li>
+    </ul>
+  </div>
+</nav>
+
+<!-- ═══════════════════════════════════════
+     HERO
+     ═══════════════════════════════════════ -->
+<section class="hero">
+  <span class="section-label" style="color:#8bb4ff;">Work Sample &middot; Block / Square APM</span>
+  <h1>Neighborhood-Aware<br/>Seller Ops Copilot</h1>
+  <p class="subtitle">
+    An AI-native insights engine that gives small-business sellers plain-English answers,
+    verified metrics, and actionable recommendations &mdash; grounded in real data, never hallucinated.
+  </p>
+  <div class="hero-badges">
+    <span class="hero-badge">GPT-4o Tool Calling</span>
+    <span class="hero-badge">Zod Schema Validation</span>
+    <span class="hero-badge">Neighborhood Context</span>
+    <span class="hero-badge">Offline-First Demo</span>
+  </div>
+  <div class="hero-actions">
+    <a href="https://github.com/rithwikgokhale/Seller-Ops-Copilot" class="btn btn-primary">View on GitHub</a>
+    <a href="#solution" class="btn btn-outline">See How It Works</a>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════
+     STAT BAR
+     ═══════════════════════════════════════ -->
+<div class="stat-bar">
+  <div class="container">
+    <div class="stat-item">
+      <span class="stat-number">6</span>
+      <span class="stat-desc">Typed data tools</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">30</span>
+      <span class="stat-desc">Days of stub data</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">0</span>
+      <span class="stat-desc">Hallucinated numbers</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">&lt;3 min</span>
+      <span class="stat-desc">Setup time</span>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════
+     THE PROBLEM
+     ═══════════════════════════════════════ -->
+<section id="problem">
+  <div class="container">
+    <span class="section-label">The Problem</span>
+    <h2>Small businesses are drowning in data they can't use</h2>
+    <p class="section-subtitle">
+      Point-of-sale systems capture rich transaction data, but turning that data into decisions still requires time, expertise, and tools most sellers don't have.
+    </p>
+
+    <div class="card-grid" style="margin-top:2.5rem;">
+      <div class="card">
+        <div class="card-icon amber">&#9888;</div>
+        <h3>Data Overload, Insight Poverty</h3>
+        <p>Square sellers generate thousands of transactions daily. But raw dashboards don't tell you <em>what to do</em>. Sellers need answers, not charts &mdash; "Should I reorder oat milk?" not "Here's a line graph."</p>
+      </div>
+      <div class="card">
+        <div class="card-icon rose">&#10006;</div>
+        <h3>AI Hallucination Risk</h3>
+        <p>Generic AI chatbots will confidently fabricate sales numbers. A seller asking "What was my revenue last week?" deserves a number computed from their actual data &mdash; not a plausible guess.</p>
+      </div>
+      <div class="card">
+        <div class="card-icon purple">&#127758;</div>
+        <h3>Missing Neighborhood Context</h3>
+        <p>A coffee shop's Tuesday revenue is shaped by weather, a nearby farmers market, and a bad Yelp review &mdash; signals invisible to traditional POS analytics. Sellers operate in neighborhoods, not spreadsheets.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════
+     THE SOLUTION
+     ═══════════════════════════════════════ -->
+<section id="solution">
+  <div class="container">
+    <span class="section-label">The Solution</span>
+    <h2>Ask questions. Get verified answers.</h2>
+    <p class="section-subtitle">
+      Seller Ops Copilot turns natural-language questions into data-grounded insights with actionable recommendations &mdash; no SQL, no dashboards, no guesswork.
+    </p>
+
+    <div class="card-grid card-grid-3" style="margin-top:2.5rem;">
+      <div class="card">
+        <div class="card-icon blue">&#128172;</div>
+        <h3>Natural-Language Queries</h3>
+        <p>Ask "How were sales this week?" or "Am I staffed properly for peak hours?" in plain English. The copilot understands context, handles ambiguity, and asks clarifying questions when needed.</p>
+      </div>
+      <div class="card">
+        <div class="card-icon green">&#128200;</div>
+        <h3>Verified Metric Cards</h3>
+        <p>Every number displayed comes from a tool call against your actual data. Revenue, order counts, top items, staffing ratios &mdash; all computed, never generated. Zod schema validation ensures structural integrity.</p>
+      </div>
+      <div class="card">
+        <div class="card-icon amber">&#127919;</div>
+        <h3>Actionable Recommendations</h3>
+        <p>Up to 3 ranked action cards with confidence levels (high/med/low), rationale grounded in data, expected impact estimates, and explicit assumptions. You know exactly what the copilot is confident about and why.</p>
+      </div>
+      <div class="card">
+        <div class="card-icon purple">&#127782;</div>
+        <h3>Neighborhood Context Toggle</h3>
+        <p>Flip one switch to overlay weather forecasts, local events, and review sentiment onto your analysis. The copilot weaves external signals into recommendations while clearly labeling what comes from where.</p>
+      </div>
+      <div class="card">
+        <div class="card-icon teal">&#128278;</div>
+        <h3>Source Citations</h3>
+        <p>Every response includes a sources array citing which tools were called, what parameters were used, and which heuristic rules were applied. Full traceability from insight back to data.</p>
+      </div>
+      <div class="card">
+        <div class="card-icon rose">&#128190;</div>
+        <h3>Save &amp; Review Insights</h3>
+        <p>Bookmark any insight for later reference. Saved insights persist locally and can be reviewed on a dedicated page &mdash; building an institutional memory for the business.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════
+     ARCHITECTURE
+     ═══════════════════════════════════════ -->
+<section id="architecture">
+  <div class="container">
+    <span class="section-label">Architecture</span>
+    <h2>System design &amp; technical stack</h2>
+    <p class="section-subtitle">
+      A clean three-layer architecture: React UI &rarr; Express API &rarr; LLM Agent with typed tool calls against structured data.
+    </p>
+
+    <div class="arch-diagram">
+<pre>
+  ┌─────────────────────────────┐
+  │        React + Vite UI      │     Port 5173
+  │  Chat interface, Metric &   │     (Tailwind CSS)
+  │  Action cards, Save/Review  │
+  └──────────┬──────────────────┘
+             │  POST /api/chat
+             │  { message, neighborhoodContextEnabled }
+             ▼
+  ┌─────────────────────────────┐
+  │       Express API Server    │     Port 3001
+  │                             │
+  │  ┌───────────────────────┐  │
+  │  │     LLM Agent Loop    │  │     GPT-4o (tool_choice: auto)
+  │  │  System Prompt + Zod  │  │     Max 8 rounds
+  │  │  Schema Validation    │  │     Temperature: 0.2
+  │  └───────────┬───────────┘  │
+  │              │              │
+  │  ┌───────────▼───────────┐  │
+  │  │   Tool Execution Layer │  │     6 typed functions
+  │  │  getSalesSummary      │  │     ├── Internal data (5 tools)
+  │  │  getHourlySales       │  │     └── Neighborhood context (1 tool, gated)
+  │  │  getTopItems          │  │
+  │  │  getInventoryStatus   │  │
+  │  │  getStaffingSignals   │  │
+  │  │  getNeighborhoodContext│  │
+  │  └───────────┬───────────┘  │
+  │              │              │
+  │  ┌───────────▼───────────┐  │
+  │  │   Stub Data (JSON)    │  │     30 days of deterministic
+  │  │  sales, inventory,    │  │     coffee-shop data
+  │  │  staffing, weather,   │  │     (seed.cjs generator)
+  │  │  events, reviews      │  │
+  │  └───────────────────────┘  │
+  └─────────────────────────────┘
+</pre>
+    </div>
+
+    <h3 style="margin-top:2.5rem;">Tech Stack</h3>
+    <table class="tech-table">
+      <thead>
+        <tr><th>Layer</th><th>Technology</th><th>Why</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Frontend</td><td><code>React 19</code> <code>TypeScript</code> <code>Vite</code> <code>Tailwind CSS</code></td><td>Fast iteration, type safety, modern DX</td></tr>
+        <tr><td>Backend</td><td><code>Express</code> <code>TypeScript</code> <code>tsx</code></td><td>Minimal footprint, easy to extend</td></tr>
+        <tr><td>AI</td><td><code>OpenAI GPT-4o</code> function calling</td><td>Best-in-class tool use, structured output</td></tr>
+        <tr><td>Validation</td><td><code>Zod</code></td><td>Runtime schema enforcement on LLM output</td></tr>
+        <tr><td>Data</td><td>Stubbed JSON + deterministic seed</td><td>Offline-first, reproducible demos</td></tr>
+        <tr><td>Routing</td><td><code>React Router v7</code></td><td>Client-side SPA routing for Chat/Saved pages</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════
+     AI-NATIVE DESIGN
+     ═══════════════════════════════════════ -->
+<section id="ai-design">
+  <div class="container">
+    <span class="section-label">AI-Native Design</span>
+    <h2>How we prevent hallucination and ensure trust</h2>
+    <p class="section-subtitle">
+      The core insight: AI should call tools, not generate numbers. Every architectural choice reinforces data integrity.
+    </p>
+
+    <div class="two-col">
+      <div>
+        <h3>Tool-Calling Over Raw Generation</h3>
+        <p class="text-muted" style="margin-top:.5rem;">
+          Instead of asking the LLM to "write SQL" or "estimate revenue," we give it typed tool functions.
+          The model decides <em>which</em> tools to call and with <em>what parameters</em> &mdash; but the actual computation
+          happens in deterministic TypeScript code against real data. This means:
+        </p>
+        <ul style="margin-top:.75rem; padding-left:1.25rem; color:var(--ink-muted); font-size:.9rem; line-height:1.8;">
+          <li>Every number is traceable to a specific tool call</li>
+          <li>The model can never fabricate a sales figure</li>
+          <li>Tool outputs are included in the sources array</li>
+          <li>If data is missing, the tool returns empty &mdash; not the model</li>
+        </ul>
+      </div>
+      <div>
+        <div class="code-block">
+<code><span class="cm">// The model calls this &mdash; it never computes revenue itself</span>
+<span class="kw">export function</span> <span class="fn">getSalesSummary</span>(args: {
+  <span class="ty">startDate</span>: <span class="ty">string</span>;
+  <span class="ty">endDate</span>: <span class="ty">string</span>;
+}) {
+  <span class="kw">const</span> sales = <span class="fn">loadJSON</span>(<span class="str">"sales.json"</span>);
+  <span class="kw">const</span> range = <span class="fn">filterByRange</span>(sales, args.startDate, args.endDate);
+  <span class="kw">return</span> {
+    total_revenue: <span class="fn">round2</span>(range.<span class="fn">reduce</span>(...)),
+    order_count: range.<span class="fn">reduce</span>(...),
+    avg_order_value: <span class="fn">round2</span>(...),
+  };
+}</code>
+        </div>
+      </div>
+    </div>
+
+    <div class="two-col" style="margin-top:3rem;">
+      <div>
+        <div class="code-block">
+<code><span class="cm">// Zod validates every LLM response at runtime</span>
+<span class="kw">export const</span> <span class="ty">OutputSchema</span> = z.<span class="fn">object</span>({
+  answer_markdown: z.<span class="fn">string</span>().<span class="fn">trim</span>().<span class="fn">min</span>(<span class="num">1</span>).<span class="fn">max</span>(<span class="num">2500</span>),
+  metrics: z.<span class="fn">array</span>(MetricCardSchema).<span class="fn">max</span>(<span class="num">6</span>),
+  actions: z.<span class="fn">array</span>(ActionCardSchema).<span class="fn">max</span>(<span class="num">3</span>),
+  sources: z.<span class="fn">array</span>(SourceSchema).<span class="fn">min</span>(<span class="num">1</span>),
+  warnings: z.<span class="fn">array</span>(z.<span class="fn">string</span>()).<span class="fn">max</span>(<span class="num">10</span>),
+  followups: z.<span class="fn">array</span>(z.<span class="fn">string</span>()).<span class="fn">max</span>(<span class="num">3</span>),
+});
+
+<span class="cm">// If the LLM returns invalid JSON, we throw immediately</span>
+<span class="kw">const</span> result = OutputSchema.<span class="fn">safeParse</span>(parsed);
+<span class="kw">if</span> (!result.success) <span class="kw">throw new</span> <span class="ty">Error</span>(<span class="str">`Schema validation failed`</span>);</code>
+        </div>
+      </div>
+      <div>
+        <h3>Zod Schema as a Guardrail</h3>
+        <p class="text-muted" style="margin-top:.5rem;">
+          The LLM's final output is parsed as JSON and validated against a strict Zod schema at runtime.
+          This is not optional &mdash; if the model produces malformed output, extra fields, or missing
+          required properties, the request fails immediately rather than surfacing garbage to the seller.
+        </p>
+        <p class="text-muted" style="margin-top:.75rem;">
+          The schema enforces constraints like: metrics arrays capped at 6 cards, confidence must be
+          one of <code>["low","med","high"]</code>, sources must contain at least 1 entry, and
+          the answer must be under 2,500 characters. This keeps outputs predictable and UI-safe.
+        </p>
+      </div>
+    </div>
+
+    <div class="callout" style="margin-top:3rem;">
+      <span class="callout-icon">&#128274;</span>
+      <div>
+        <p><strong>Gated Neighborhood Context.</strong> The <code>getNeighborhoodContext</code> tool is physically removed from the tool list when the toggle is off. The model cannot call what it cannot see &mdash; a defense-in-depth approach that doesn't rely on prompt compliance alone.</p>
+      </div>
+    </div>
+
+    <h3 style="margin-top:3rem;">Design Decisions Summary</h3>
+    <dl class="kv-grid">
+      <div class="kv-item">
+        <dt>Tool-calling vs. raw SQL</dt>
+        <dd>Model calls typed functions; never writes SQL. Eliminates injection risk and hallucination of query results.</dd>
+      </div>
+      <div class="kv-item">
+        <dt>Temperature 0.2</dt>
+        <dd>Low temperature reduces creative drift while allowing the model enough flexibility to synthesize tool results into natural language.</dd>
+      </div>
+      <div class="kv-item">
+        <dt>Max 8 tool rounds</dt>
+        <dd>Safety circuit breaker prevents infinite loops if the model keeps requesting tools. In practice, most queries resolve in 1-2 rounds.</dd>
+      </div>
+      <div class="kv-item">
+        <dt>Markdown fence stripping</dt>
+        <dd>Even when instructed to output raw JSON, models sometimes wrap in code fences. The parser strips these defensively.</dd>
+      </div>
+      <div class="kv-item">
+        <dt>Deterministic seed data</dt>
+        <dd>The <code>seed.cjs</code> script uses a mulberry32 PRNG seeded with a fixed value, producing identical data on every run for reproducible demos.</dd>
+      </div>
+      <div class="kv-item">
+        <dt>Source citation requirement</dt>
+        <dd>The schema mandates <code>sources.min(1)</code> &mdash; the model must cite at least one tool or rule. Combined with the system prompt, this creates accountability for every claim.</dd>
+      </div>
+    </dl>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════
+     BUSINESS VALUE
+     ═══════════════════════════════════════ -->
+<section id="business-value">
+  <div class="container">
+    <span class="section-label">Business Value</span>
+    <h2>Why this matters for sellers</h2>
+    <p class="section-subtitle">
+      Small-business sellers don't need more dashboards. They need someone to tell them what to do &mdash; and why.
+    </p>
+
+    <div class="card-grid card-grid-3" style="margin-top:2.5rem;">
+      <div class="card">
+        <div class="card-icon green">&#9201;</div>
+        <h3>Minutes, Not Hours</h3>
+        <p>A seller currently spends 30+ minutes per week manually reviewing dashboards, exporting CSVs, and trying to spot patterns. The copilot delivers the same insight in a single conversational turn &mdash; typically under 10 seconds.</p>
+      </div>
+      <div class="card">
+        <div class="card-icon blue">&#128161;</div>
+        <h3>Actionable, Not Informational</h3>
+        <p>"Your revenue was $8,200 this week" is informational. "Add a morning barista shift to capture ~$200/day in unmet demand during your 7-9 AM peak" is actionable. Every recommendation includes confidence, rationale, and assumptions.</p>
+      </div>
+      <div class="card">
+        <div class="card-icon purple">&#127758;</div>
+        <h3>Neighborhood-Aware Decisions</h3>
+        <p>Research from the San Francisco Fed shows weather alone can shift retail spending by ~3.25%. Local events can drive 10-30% foot traffic spikes within 0.3 miles. The copilot weaves these signals into recommendations automatically.</p>
+      </div>
+    </div>
+
+    <div class="two-col" style="margin-top:3rem;">
+      <div>
+        <h3>Who It Serves</h3>
+        <p class="text-muted" style="margin-top:.5rem;">
+          The primary persona is a small-business seller (coffee shop owner, bakery operator, boutique retail manager)
+          who uses Square as their POS system. They're typically:
+        </p>
+        <ul style="margin-top:.75rem; padding-left:1.25rem; color:var(--ink-muted); font-size:.9rem; line-height:1.8;">
+          <li>Time-constrained (wearing multiple hats)</li>
+          <li>Data-curious but not data-literate</li>
+          <li>Making daily operational decisions (staffing, ordering, promotions)</li>
+          <li>Hyper-local (their business is shaped by their physical neighborhood)</li>
+        </ul>
+      </div>
+      <div>
+        <h3>Seller Impact Framework</h3>
+        <dl class="kv-grid" style="margin-top:.5rem;">
+          <div class="kv-item">
+            <dt>Inventory waste reduction</dt>
+            <dd>Low-stock alerts + days-until-stockout prevent both stockouts and over-ordering</dd>
+          </div>
+          <div class="kv-item">
+            <dt>Labor cost optimization</dt>
+            <dd>Staffing signals flag under/overstaffed shifts against actual peak traffic</dd>
+          </div>
+          <div class="kv-item">
+            <dt>Revenue opportunity capture</dt>
+            <dd>Unmet demand during peaks, event-driven traffic, and weather-adjusted planning</dd>
+          </div>
+          <div class="kv-item">
+            <dt>Decision confidence</dt>
+            <dd>Explicit confidence levels + assumptions give sellers warranted trust in recommendations</dd>
+          </div>
+        </dl>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════
+     MARKET CONTEXT
+     ═══════════════════════════════════════ -->
+<section id="market">
+  <div class="container">
+    <span class="section-label">Market Context</span>
+    <h2>The opportunity in AI-native seller tools</h2>
+    <p class="section-subtitle">
+      The BI market is massive and growing, but SMBs remain underserved. AI-native interfaces can bridge the gap.
+    </p>
+
+    <div class="card-grid" style="margin-top:2.5rem; grid-template-columns: repeat(4, 1fr);">
+      <div class="card text-center">
+        <div class="market-stat">
+          <span class="big">$31.8B</span>
+          <span class="label">Global BI &amp; analytics market (2026)</span>
+        </div>
+      </div>
+      <div class="card text-center">
+        <div class="market-stat">
+          <span class="big">2x</span>
+          <span class="label">Revenue growth for SMBs using analytics vs. those that don't</span>
+        </div>
+      </div>
+      <div class="card text-center">
+        <div class="market-stat">
+          <span class="big">8%</span>
+          <span class="label">Of retailers have scaled AI analytics beyond pilots</span>
+        </div>
+      </div>
+      <div class="card text-center">
+        <div class="market-stat">
+          <span class="big">3.25%</span>
+          <span class="label">Revenue impact of weather on retail spending (SF Fed)</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="two-col" style="margin-top:3rem;">
+      <div>
+        <h3>Why Now</h3>
+        <p class="text-muted" style="margin-top:.5rem;">
+          Three converging trends make this the right moment for AI-native seller tools:
+        </p>
+        <p class="text-muted" style="margin-top:.75rem;">
+          <strong>1. LLM tool-calling maturity.</strong> GPT-4o's function calling is reliable enough for production use.
+          Models can reason about which tools to invoke, handle multi-step queries, and produce structured output.
+          This wasn't possible 18 months ago.
+        </p>
+        <p class="text-muted" style="margin-top:.75rem;">
+          <strong>2. Square's data moat.</strong> With ~289K online stores and millions of in-person sellers,
+          Square already has the transaction data. The missing piece is an AI layer that makes this data
+          conversationally accessible &mdash; especially for micro-merchants who will never open a BI tool.
+        </p>
+        <p class="text-muted" style="margin-top:.75rem;">
+          <strong>3. Agentic commerce is here.</strong> BCG reports that AI-powered retail agents are redefining commerce,
+          with 54% of retailers citing faster decision-making as their top AI priority. Sellers who don't have
+          AI-powered insights will fall behind sellers who do.
+        </p>
+      </div>
+      <div>
+        <h3>Competitive Landscape</h3>
+        <p class="text-muted" style="margin-top:.5rem;">
+          Existing solutions fall short for the small-business seller:
+        </p>
+        <table class="tech-table" style="margin-top:1rem;">
+          <thead>
+            <tr><th>Approach</th><th>Limitation</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Square Dashboard</td><td>Charts and tables, not conversational. No recommendations. No neighborhood context.</td></tr>
+            <tr><td>Generic ChatGPT</td><td>No access to seller data. Hallucinates numbers. No structured output.</td></tr>
+            <tr><td>Enterprise BI (Tableau, Looker)</td><td>Expensive, complex, requires data engineering. Overkill for a coffee shop.</td></tr>
+            <tr><td>Vertical SaaS analytics</td><td>Pre-built dashboards, not conversational. No AI-native interaction model.</td></tr>
+          </tbody>
+        </table>
+        <p class="text-muted" style="margin-top:1rem;">
+          Seller Ops Copilot occupies a unique position: <strong>conversational + data-grounded + neighborhood-aware + actionable</strong>.
+          No existing product combines all four.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════
+     ROADMAP
+     ═══════════════════════════════════════ -->
+<section id="roadmap">
+  <div class="container">
+    <span class="section-label">Roadmap</span>
+    <h2>From MVP to platform feature</h2>
+    <p class="section-subtitle">
+      This MVP demonstrates the core interaction pattern. Here's how it evolves into a production-grade feature within Square's ecosystem.
+    </p>
+
+    <div class="roadmap">
+      <!-- Phase 1 -->
+      <div class="roadmap-phase">
+        <div class="roadmap-dot active">1</div>
+        <div class="roadmap-content">
+          <h3>Phase 1 &mdash; MVP (Current)</h3>
+          <p>
+            Fully functional prototype with stubbed data. Demonstrates the complete AI loop:
+            natural-language input &rarr; tool calling &rarr; validated structured output &rarr; rendered UI.
+            Runs locally in under 3 minutes of setup.
+          </p>
+          <div class="roadmap-tags">
+            <span class="roadmap-tag shipped">Shipped</span>
+            <span class="roadmap-tag">6 tools</span>
+            <span class="roadmap-tag">Zod validation</span>
+            <span class="roadmap-tag">Neighborhood toggle</span>
+            <span class="roadmap-tag">Offline-first</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Phase 2 -->
+      <div class="roadmap-phase">
+        <div class="roadmap-dot upcoming">2</div>
+        <div class="roadmap-content">
+          <h3>Phase 2 &mdash; Real Data Integration</h3>
+          <p>
+            Connect to Square's APIs (Transactions, Catalog, Labor, Inventory) behind a feature flag.
+            Add real weather (OpenWeather), events (PredictHQ), and review (Yelp Fusion) integrations.
+            Implement OAuth 2.0 flow for seller authentication.
+          </p>
+          <div class="roadmap-tags">
+            <span class="roadmap-tag">Square API</span>
+            <span class="roadmap-tag">OAuth 2.0</span>
+            <span class="roadmap-tag">Feature flags</span>
+            <span class="roadmap-tag">Real-time data</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Phase 3 -->
+      <div class="roadmap-phase">
+        <div class="roadmap-dot upcoming">3</div>
+        <div class="roadmap-content">
+          <h3>Phase 3 &mdash; Evaluation &amp; Reliability</h3>
+          <p>
+            Build an evaluation harness with golden-answer test cases for tool-calling accuracy.
+            Add streaming responses (SSE) for perceived latency improvement. Implement conversation
+            memory for multi-turn follow-ups. Add guardrail monitoring and LLM output logging.
+          </p>
+          <div class="roadmap-tags">
+            <span class="roadmap-tag">Eval harness</span>
+            <span class="roadmap-tag">SSE streaming</span>
+            <span class="roadmap-tag">Multi-turn context</span>
+            <span class="roadmap-tag">Guardrail monitoring</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Phase 4 -->
+      <div class="roadmap-phase">
+        <div class="roadmap-dot upcoming">4</div>
+        <div class="roadmap-content">
+          <h3>Phase 4 &mdash; Platform Integration</h3>
+          <p>
+            Embed as a native feature within Square Dashboard. Proactive alerts ("Your espresso beans run out tomorrow").
+            Cross-seller benchmarking with privacy-preserving aggregation. Export insights to email, Slack, or PDF.
+            Mobile-optimized interface for on-the-go sellers.
+          </p>
+          <div class="roadmap-tags">
+            <span class="roadmap-tag">Square Dashboard embed</span>
+            <span class="roadmap-tag">Proactive alerts</span>
+            <span class="roadmap-tag">Cross-seller benchmarks</span>
+            <span class="roadmap-tag">Mobile-first</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Phase 5 -->
+      <div class="roadmap-phase">
+        <div class="roadmap-dot upcoming">5</div>
+        <div class="roadmap-content">
+          <h3>Phase 5 &mdash; Autonomous Actions</h3>
+          <p>
+            Move from recommendations to execution. Auto-generate purchase orders when inventory hits reorder points.
+            Suggest and publish shift schedule adjustments. Dynamic pricing recommendations for perishable items.
+            The copilot becomes an operating system for the business.
+          </p>
+          <div class="roadmap-tags">
+            <span class="roadmap-tag">Auto-reorder</span>
+            <span class="roadmap-tag">Shift scheduling</span>
+            <span class="roadmap-tag">Dynamic pricing</span>
+            <span class="roadmap-tag">Agentic workflows</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════
+     GETTING STARTED
+     ═══════════════════════════════════════ -->
+<section id="setup">
+  <div class="container">
+    <span class="section-label">Getting Started</span>
+    <h2>Run it locally in under 3 minutes</h2>
+    <p class="section-subtitle">
+      Prerequisites: Node.js &ge; 18 and an OpenAI API key with GPT-4o access.
+    </p>
+
+    <div class="steps">
+      <div class="step">
+        <div class="step-content">
+          <h4>Clone the repository</h4>
+          <code>git clone https://github.com/rithwikgokhale/Seller-Ops-Copilot.git &amp;&amp; cd Seller-Ops-Copilot</code>
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-content">
+          <h4>Install all dependencies</h4>
+          <p>This installs root, server, and client packages automatically.</p>
+          <code>npm install</code>
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-content">
+          <h4>Add your OpenAI API key</h4>
+          <code>cp .env.example .env &amp;&amp; open .env</code>
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-content">
+          <h4>Start development servers</h4>
+          <p>Launches Express on :3001 and Vite on :5173 concurrently.</p>
+          <code>npm run dev</code>
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-content">
+          <h4>Open the app</h4>
+          <p>Navigate to <a href="http://localhost:5173">http://localhost:5173</a> and ask your first question.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="callout" style="margin-top:2rem;">
+      <span class="callout-icon">&#128161;</span>
+      <div>
+        <p><strong>Demo tip:</strong> Try these questions to explore all capabilities: "How were my sales this week?" &middot; "What are my top-selling items?" &middot; "Do I have inventory issues?" &middot; "Am I properly staffed for peak hours?" &middot; Toggle Neighborhood Context on and ask "How might weather and events affect my business?"</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════
+     NON-GOALS & SCOPE
+     ═══════════════════════════════════════ -->
+<section id="scope">
+  <div class="container">
+    <span class="section-label">Scope &amp; Non-Goals</span>
+    <h2>What this MVP intentionally does not do</h2>
+    <p class="section-subtitle">
+      Scoping is a product skill. Here's what I deliberately excluded from v1 and why.
+    </p>
+
+    <div class="card-grid" style="margin-top:2rem;">
+      <div class="card">
+        <h3>No real database</h3>
+        <p>Stub JSON keeps the demo self-contained and offline. The tool interface is identical whether reading JSON or querying Postgres &mdash; swapping is a one-file change.</p>
+      </div>
+      <div class="card">
+        <h3>No multi-turn memory</h3>
+        <p>Each question is independent. This simplifies the demo while avoiding context window management complexity. Phase 3 adds conversation memory.</p>
+      </div>
+      <div class="card">
+        <h3>No authentication</h3>
+        <p>A demo doesn't need OAuth. The architecture is auth-ready: the API layer naturally supports middleware injection for Square's OAuth flow.</p>
+      </div>
+      <div class="card">
+        <h3>No production deployment</h3>
+        <p>This runs locally. Production would add rate limiting, error monitoring, LLM output logging, and cost controls &mdash; all straightforward with the current architecture.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════
+     ABOUT THE BUILDER
+     ═══════════════════════════════════════ -->
+<section id="about">
+  <div class="container text-center">
+    <span class="section-label">About</span>
+    <h2>Built by Rithwik Gokhale</h2>
+    <p class="section-subtitle" style="margin:0.75rem auto 0;">
+      This project was built as a work sample for Block/Square's AI-native Associate Product Manager program.
+      It demonstrates product thinking (problem framing, scoping, roadmap), technical depth (AI tool-calling architecture,
+      schema validation, guardrails), and shipping quality (polished UI, easy setup, comprehensive documentation).
+    </p>
+    <div class="hero-actions" style="margin-top:2rem;">
+      <a href="https://github.com/rithwikgokhale/Seller-Ops-Copilot" class="btn btn-primary">View Source on GitHub</a>
+      <a href="https://github.com/rithwikgokhale" class="btn btn-outline" style="color:var(--ink); border-color:var(--border);">GitHub Profile</a>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════
+     FOOTER
+     ═══════════════════════════════════════ -->
+<footer class="footer">
+  <p>Seller Ops Copilot &middot; Built with care for the Block/Square APM application</p>
+  <div class="footer-links">
+    <a href="https://github.com/rithwikgokhale/Seller-Ops-Copilot">GitHub</a>
+    <a href="#problem">Problem</a>
+    <a href="#solution">Solution</a>
+    <a href="#architecture">Architecture</a>
+    <a href="#roadmap">Roadmap</a>
+  </div>
+</footer>
+
+<!-- ═══════════════════════════════════════
+     SCRIPTS
+     ═══════════════════════════════════════ -->
+<script>
+// Mobile nav toggle
+const toggle = document.getElementById('navToggle');
+const links = document.getElementById('navLinks');
+toggle.addEventListener('click', () => links.classList.toggle('open'));
+
+// Close mobile nav on link click
+links.querySelectorAll('a').forEach(a => {
+  a.addEventListener('click', () => links.classList.remove('open'));
+});
+
+// Active nav link on scroll
+const sections = document.querySelectorAll('section[id]');
+const navAnchors = links.querySelectorAll('a[href^="#"]');
+
+function updateActive() {
+  const scrollY = window.scrollY + 100;
+  sections.forEach(sec => {
+    const top = sec.offsetTop;
+    const height = sec.offsetHeight;
+    const id = sec.getAttribute('id');
+    if (scrollY >= top && scrollY < top + height) {
+      navAnchors.forEach(a => {
+        a.classList.remove('active');
+        if (a.getAttribute('href') === '#' + id) a.classList.add('active');
+      });
+    }
+  });
+}
+
+window.addEventListener('scroll', updateActive, { passive: true });
+updateActive();
+</script>
+
+</body>
+</html>
