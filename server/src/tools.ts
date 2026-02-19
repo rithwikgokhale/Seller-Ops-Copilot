@@ -378,23 +378,29 @@ export function getNeighborhoodContext(args: {
 
 // ─── Dispatcher ──────────────────────────────────────────────────
 
-const TOOL_MAP: Record<string, (args: any) => any> = {
-  getSalesSummary,
-  getHourlySales,
-  getTopItems,
-  getInventoryStatus,
-  getStaffingSignals,
-  getNeighborhoodContext,
+type ToolHandler = (args: Record<string, unknown>) => unknown;
+
+const TOOL_MAP: Record<string, ToolHandler> = {
+  getSalesSummary: (a) => getSalesSummary(a as Parameters<typeof getSalesSummary>[0]),
+  getHourlySales: (a) => getHourlySales(a as Parameters<typeof getHourlySales>[0]),
+  getTopItems: (a) => getTopItems(a as Parameters<typeof getTopItems>[0]),
+  getInventoryStatus: () => getInventoryStatus(),
+  getStaffingSignals: (a) => getStaffingSignals(a as Parameters<typeof getStaffingSignals>[0]),
+  getNeighborhoodContext: (a) => getNeighborhoodContext(a as Parameters<typeof getNeighborhoodContext>[0]),
 };
 
-export function executeTool(name: string, args: Record<string, unknown>) {
+export function executeTool(
+  name: string,
+  args: Record<string, unknown>
+): unknown {
   const fn = TOOL_MAP[name];
   if (!fn) {
     return { error: `Unknown tool: ${name}` };
   }
   try {
     return fn(args);
-  } catch (err: any) {
-    return { error: `Tool ${name} failed: ${err.message}` };
+  } catch (err: unknown) {
+    const message = err instanceof Error ? err.message : String(err);
+    return { error: `Tool ${name} failed: ${message}` };
   }
 }
